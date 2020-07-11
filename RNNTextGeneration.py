@@ -118,3 +118,27 @@ with tf.Session(config=config) as sess:
     print("Model saved in file: %s" % save_path)
     
     num_chars_to_generate = 1000
+    
+    # seed = "First Citizen:\nBefore we proceed any further, hear me speak.\n\nAll:\nSpeak, speak.\n\n"
+    seed = "SECOND LORD:\nNo more than a fish loves water. Is not this a strange\nfellow, my lord, that so confidently seems to undertake this\nbusiness, which he knows is not to be done; damns himself to do,\nand dares better be damn'd than to do 't.\n\n  FIRST LORD:\nYou do not know him, my lord, as we do. Certain it is\nthat he will steal himself into a man's favour, and for a week\nescape a great deal of discoveries; but when you find him out,\nyou have him ever after.\n\nBERTRAM:\nWhy, do you think he will make no deed at all of this that\nso seriously he does address himself unto?\n\nSECOND LORD:\nNone in the world; but return with an invention, and\nclap upon you two or three probable lies. But we have almost\nemboss'd him. You shall see his fall to-night; for indeed he is\nnot for your lordship's respect.\n\nFIRST LORD:\nWe'll make you some sport with the fox ere we case him.\nHe was first smok'd by the old Lord Lafeu. When his disguise and\nhe is parted, tell me what a sprat you shall find him; which you\nshall see this very night.\nSECOND LORD:\nI must go look my twigs; he shall be caught.\nBERTRAM:\nYour brother, he shall go along with me.\n\nSECOND LORD:\nAs't please your lordship. I'll leave you.\nExit\n\nBERTRAM:\nNow will I lead you to the house, and show you\nThe lass I spoke of.\n\nFIRST LORD:\nBut you say she's honest.\n\nBERTRAM:\nThat's all the fault. I spoke with her but once,\nAnd found her wondrous cold; but I sent to her,\nBy this same coxcomb that we have i' th' wind,\nTokens and letters which she did re-send;\nAnd this is all I have done. She's a fair creature;\nWill you go see her?\n\nFIRST LORD:\nWith all my heart, my lord."
+    
+    x_in = np.zeros( (1, len(seed), num_chars) )
+    for i,c in enumerate(seed):
+        x_in[0,i,:] = tf.one_hot(c2i_map[c], num_chars).eval().reshape(1,1,num_chars)
+    output = ""
+    
+    for _ in range(num_chars_to_generate):
+        rnn_output, rnn_state = sess.run([logits, final_state], feed_dict={x: x_in, state: rnn_state})
+        rnn_output = rnn_output[0][0]
+        next_char_idx = tf.argmax(rnn_output, axis=0).eval()
+        next_char = i2c_map[next_char_idx]
+        output += next_char
+        x_in = tf.one_hot(next_char_idx, num_chars).eval().reshape(1,1,num_chars)
+    print(output)
+    
+# Generation Step
+# with tf.Session() as sess:
+    # Restore variables from disk.
+#    saver.restore(sess, "./ShakespeareRNN.ckpt")
+#    print("Model restored.")
+#    rnn_state = np.load('rnn_state.npy')

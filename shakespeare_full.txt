@@ -4928,3 +4928,194 @@ ACT_3|SC_1
     More in their officer, than person. Sossius,
     One of my place in Syria, his lieutenant,
     For quick accumulation of renown,
+    Which he achiev'd by th' minute, lost his favour.
+    Who does i' th' wars more than his captain can
+    Becomes his captain's captain; and ambition,
+    The soldier's virtue, rather makes choice of loss
+    Than gain which darkens him.
+    I could do more to do Antonius good,
+    But 'twould offend him; and in his offence
+    Should my performance perish.
+  SILIUS. Thou hast, Ventidius, that
+    Without the which a soldier and his sword
+    Grants scarce distinction. Thou wilt write to Antony?
+  VENTIDIUS. I'll humbly signify what in his name,
+    That magical word of war, we have effected;
+    How, with his banners, and his well-paid ranks,
+    The ne'er-yet-beaten horse of Parthia
+    We have jaded out o' th' field.
+  SILIUS. Where is he now?
+  VENTIDIUS. He purposeth to Athens; whither, with what haste
+    The weight we must convey with's will permit,
+    We shall appear before him.- On, there; pass along.
+                                                          Exeunt
+
+ACT_3|SC_2
+                            SCENE II. Rome. CAESAR'S house
+
+        Enter AGRIPPA at one door, ENOBARBUS at another
+
+  AGRIPPA. What, are the brothers parted?
+  ENOBARBUS. They have dispatch'd with Pompey; he is gone;
+    The other three are sealing. Octavia weeps
+    To part from Rome; Caesar is sad; and Lepidus,
+    Since Pompey's feast, as Menas says, is troubled
+    With the green sickness.
+  AGRIPPA. 'Tis a noble Lepidus.
+  ENOBARBUS. A very fine one. O, how he loves Caesar!
+  AGRIPPA. Nay, but how dearly he adores Mark Antony!
+  ENOBARBUS. Caesar? Why he's the Jupiter of men.
+  AGRIPPA. What's Antony? The god of Jupiter.
+  ENOBARBUS. Spake you of Caesar? How! the nonpareil!
+  AGRIPPA. O, Antony! O thou Arabian bird!
+  ENOBARBUS. Would you praise Caesar, say 'Caesar'- go no further.
+  AGRIPPA. Indeed, he plied them both with excellent praises.
+  ENOBARBUS. But he loves Caesar best. Yet he loves Antony.
+    Hoo! hearts, tongues, figures, scribes, bards, poets, cannot
+    Think, speak, cast, write, sing, number- hoo!-
+    His love to Antony. But as for Caesar,
+    Kneel down, kneel down, and wonder.
+  AGRIPPA. Both he loves.
+  ENOBARBUS. They are his shards, and he their beetle. [Trumpets
+      within] So-
+    This is to horse. Adieu, noble Agrippa.
+  AGRIPPA. Good fortune, worthy soldier, and farewell.
+
+           Enter CAESAR, ANTONY, LEPIDUS, and OCTAVIA
+
+  ANTONY. No further, sir.
+  CAESAR. You take from me a great part of myself;
+    Use me well in't. Sister, prove such a wife
+    As my thoughts make thee, and as my farthest band
+    Shall pass on thy approof. Most noble Antony,
+    Let not the piece of virtue which is set
+    Betwixt us as the cement of our love
+    To keep it builded be the ram to batter
+    The fortress of it; for better might we
+    Have lov'd without this mean, if on both parts
+    This be not cherish'd.
+  ANTONY. Make me not offended
+    In your distrust.
+  CAESAR. I have said.
+  ANTONY. You shall not find,
+    Though you be therein curious, the least cause
+    For what you seem to fear. So the gods keep you,
+    And make the hearts of Romans serve your ends!
+    We will here part.
+  CAESAR. Farewell, my dearest sister, fare thee well.
+    The elements be kind to thee and make
+    Thy spirits all of comfort! Fare thee well.
+  OCTAVIA. My noble brother!
+  ANTONY. The April's in her eyes. It is love's spring,
+    And these the showers to bring it on. Be cheerful.
+  OCTAVIA. Sir, look well to my husband's house; and-
+  CAESAR. What, Octavia?
+  OCTAVIA. I'll tell you in your ear.
+  ANTONY. Her tongue will not obey her heart, nor can
+    Her heart inform her tongue- the swan's down feather,
+    That stands upon the swell at the full of tide,
+    And neither way inclines.
+  ENOBARBUS. [Aside to AGRIPPA] Will Caesar weep?
+  AGRIPPA. [Aside to ENOBARBUS] He has a cloud in's face.
+  ENOBARBUS. [Aside to AGRIPPA] He were the worse for that, were he a
+      horse;
+    So is he, being a man.
+  AGRIPPA. [Aside to ENOBARBUS] Why, Enobarbus,
+    When Antony found Julius Caesar dead,
+    He cried almost to roaring; and he wept
+    When at Philippi he found Brutus slain.
+  ENOBARBUS. [Aside to AGRIPPA] That year, indeed, he was troubled
+      with a rheum;
+    What willingly he did confound he wail'd,
+    Believe't- till I weep too.
+  CAESAR. No, sweet Octavia,
+    You shall hear from me still; the time shall not
+    Out-go my thinking on you.
+  ANTONY. Come, sir, come;
+    I'll wrestle with you in my strength of love.
+    Look, here I have you; thus I let you go,
+    And give you to the gods.
+  CAESAR. Adieu; be happy!
+  LEPIDUS. Let all the number of the stars give light
+    To thy fair way!
+  CAESAR. Farewell, farewell!                   [Kisses OCTAVIA]
+  ANTONY. Farewell!                       Trumpets sound. Exeunt
+
+ACT_3|SC_3
+                          SCENE III.
+              Alexandria. CLEOPATRA'S palace
+
+         Enter CLEOPATRA, CHARMIAN, IRAS, and ALEXAS
+
+  CLEOPATRA. Where is the fellow?
+  ALEXAS. Half afeard to come.
+  CLEOPATRA. Go to, go to.
+
+                Enter the MESSENGER as before
+
+    Come hither, sir.
+  ALEXAS. Good Majesty,
+    Herod of Jewry dare not look upon you
+    But when you are well pleas'd.
+  CLEOPATRA. That Herod's head
+    I'll have. But how, when Antony is gone,
+    Through whom I might command it? Come thou near.
+  MESSENGER. Most gracious Majesty!
+  CLEOPATRA. Didst thou behold Octavia?
+  MESSENGER. Ay, dread Queen.
+  CLEOPATRA. Where?
+  MESSENGER. Madam, in Rome
+    I look'd her in the face, and saw her led
+    Between her brother and Mark Antony.
+  CLEOPATRA. Is she as tall as me?
+  MESSENGER. She is not, madam.
+  CLEOPATRA. Didst hear her speak? Is she shrill-tongu'd or low?
+  MESSENGER. Madam, I heard her speak: she is low-voic'd.
+  CLEOPATRA. That's not so good. He cannot like her long.
+  CHARMIAN. Like her? O Isis! 'tis impossible.
+  CLEOPATRA. I think so, Charmian. Dull of tongue and dwarfish!
+    What majesty is in her gait? Remember,
+    If e'er thou look'dst on majesty.
+  MESSENGER. She creeps.
+    Her motion and her station are as one;
+    She shows a body rather than a life,
+    A statue than a breather.
+  CLEOPATRA. Is this certain?
+  MESSENGER. Or I have no observance.
+  CHARMIAN. Three in Egypt
+    Cannot make better note.
+  CLEOPATRA. He's very knowing;
+    I do perceive't. There's nothing in her yet.
+    The fellow has good judgment.
+  CHARMIAN. Excellent.
+  CLEOPATRA. Guess at her years, I prithee.
+  MESSENGER. Madam,
+    She was a widow.
+  CLEOPATRA. Widow? Charmian, hark!
+  MESSENGER. And I do think she's thirty.
+  CLEOPATRA. Bear'st thou her face in mind? Is't long or round?
+  MESSENGER. Round even to faultiness.
+  CLEOPATRA. For the most part, too, they are foolish that are so.
+    Her hair, what colour?
+  MESSENGER. Brown, madam; and her forehead
+    As low as she would wish it.
+  CLEOPATRA. There's gold for thee.
+    Thou must not take my former sharpness ill.
+    I will employ thee back again; I find thee
+    Most fit for business. Go make thee ready;
+    Our letters are prepar'd.                   Exeunt MESSENGER
+  CHARMIAN. A proper man.
+  CLEOPATRA. Indeed, he is so. I repent me much
+    That so I harried him. Why, methinks, by him,
+    This creature's no such thing.
+  CHARMIAN. Nothing, madam.
+  CLEOPATRA. The man hath seen some majesty, and should know.
+  CHARMIAN. Hath he seen majesty? Isis else defend,
+    And serving you so long!
+  CLEOPATRA. I have one thing more to ask him yet, good Charmian.
+    But 'tis no matter; thou shalt bring him to me
+    Where I will write. All may be well enough.
+  CHARMIAN. I warrant you, madam.                         Exeunt
+
+ACT_3|SC_4
+                          SCENE IV.

@@ -6270,3 +6270,184 @@ ACT_4|SC_8
 
         Alarum. Enter ANTONY, again in a march; SCARUS
                         with others
+
+  ANTONY. We have beat him to his camp. Run one before
+    And let the Queen know of our gests. To-morrow,
+    Before the sun shall see's, we'll spill the blood
+    That has to-day escap'd. I thank you all;
+    For doughty-handed are you, and have fought
+    Not as you serv'd the cause, but as't had been
+    Each man's like mine; you have shown all Hectors.
+    Enter the city, clip your wives, your friends,
+    Tell them your feats; whilst they with joyful tears
+    Wash the congealment from your wounds and kiss
+    The honour'd gashes whole.
+
+                 Enter CLEOPATRA, attended
+
+    [To SCARUS] Give me thy hand-
+    To this great fairy I'll commend thy acts,
+    Make her thanks bless thee. O thou day o' th' world,
+    Chain mine arm'd neck. Leap thou, attire and all,
+    Through proof of harness to my heart, and there
+    Ride on the pants triumphing.
+  CLEOPATRA. Lord of lords!
+    O infinite virtue, com'st thou smiling from
+    The world's great snare uncaught?
+  ANTONY. Mine nightingale,
+    We have beat them to their beds. What, girl! though grey
+    Do something mingle with our younger brown, yet ha' we
+    A brain that nourishes our nerves, and can
+    Get goal for goal of youth. Behold this man;
+    Commend unto his lips thy favouring hand-
+    Kiss it, my warrior- he hath fought to-day
+    As if a god in hate of mankind had
+    Destroyed in such a shape.
+  CLEOPATRA. I'll give thee, friend,
+    An armour all of gold; it was a king's.
+  ANTONY. He has deserv'd it, were it carbuncled
+    Like holy Phoebus' car. Give me thy hand.
+    Through Alexandria make a jolly march;
+    Bear our hack'd targets like the men that owe them.
+    Had our great palace the capacity
+    To camp this host, we all would sup together,
+    And drink carouses to the next day's fate,
+    Which promises royal peril. Trumpeters,
+    With brazen din blast you the city's ear;
+    Make mingle with our rattling tabourines,
+    That heaven and earth may strike their sounds together
+    Applauding our approach.                              Exeunt
+
+ACT_4|SC_9
+                         SCENE IX.
+                      CAESAR'S camp
+
+      Enter a CENTURION and his company; ENOBARBUS follows
+
+  CENTURION. If we be not reliev'd within this hour,
+    We must return to th' court of guard. The night
+    Is shiny, and they say we shall embattle
+    By th' second hour i' th' morn.
+  FIRST WATCH. This last day was
+    A shrewd one to's.
+  ENOBARBUS. O, bear me witness, night-
+  SECOND WATCH. What man is this?
+  FIRST WATCH. Stand close and list him.
+  ENOBARBUS. Be witness to me, O thou blessed moon,
+    When men revolted shall upon record
+    Bear hateful memory, poor Enobarbus did
+    Before thy face repent!
+  CENTURION. Enobarbus?
+  SECOND WATCH. Peace!
+    Hark further.
+  ENOBARBUS. O sovereign mistress of true melancholy,
+    The poisonous damp of night disponge upon me,
+    That life, a very rebel to my will,
+    May hang no longer on me. Throw my heart
+    Against the flint and hardness of my fault,
+    Which, being dried with grief, will break to powder,
+    And finish all foul thoughts. O Antony,
+    Nobler than my revolt is infamous,
+    Forgive me in thine own particular,
+    But let the world rank me in register
+    A master-leaver and a fugitive!
+    O Antony! O Antony!                                   [Dies]
+  FIRST WATCH. Let's speak to him.
+  CENTURION. Let's hear him, for the things he speaks
+    May concern Caesar.
+  SECOND WATCH. Let's do so. But he sleeps.
+  CENTURION. Swoons rather; for so bad a prayer as his
+    Was never yet for sleep.
+  FIRST WATCH. Go we to him.
+  SECOND WATCH. Awake, sir, awake; speak to us.
+  FIRST WATCH. Hear you, sir?
+  CENTURION. The hand of death hath raught him.
+    [Drums afar off ] Hark! the drums
+    Demurely wake the sleepers. Let us bear him
+    To th' court of guard; he is of note. Our hour
+    Is fully out.
+  SECOND WATCH. Come on, then;
+    He may recover yet.                     Exeunt with the body
+
+ACT_4|SC_10
+                          SCENE X.
+                    Between the two camps
+
+            Enter ANTONY and SCARUS, with their army
+
+  ANTONY. Their preparation is to-day by sea;
+    We please them not by land.
+  SCARUS. For both, my lord.
+  ANTONY. I would they'd fight i' th' fire or i' th' air;
+    We'd fight there too. But this it is, our foot
+    Upon the hills adjoining to the city
+    Shall stay with us- Order for sea is given;
+    They have put forth the haven-
+    Where their appointment we may best discover
+    And look on their endeavour.                          Exeunt
+
+ACT_4|SC_11
+                         SCENE XI.
+                    Between the camps
+
+                Enter CAESAR and his army
+
+  CAESAR. But being charg'd, we will be still by land,
+    Which, as I take't, we shall; for his best force
+    Is forth to man his galleys. To the vales,
+    And hold our best advantage.                          Exeunt
+
+ACT_4|SC_12
+                         SCENE XII.
+                  A hill near Alexandria
+
+                  Enter ANTONY and SCARUS
+
+  ANTONY. Yet they are not join'd. Where yond pine does stand
+    I shall discover all. I'll bring thee word
+    Straight how 'tis like to go.                           Exit
+  SCARUS. Swallows have built
+    In Cleopatra's sails their nests. The augurers
+    Say they know not, they cannot tell; look grimly,
+    And dare not speak their knowledge. Antony
+    Is valiant and dejected; and by starts
+    His fretted fortunes give him hope and fear
+    Of what he has and has not.
+                            [Alarum afar off, as at a sea-fight]
+
+                      Re-enter ANTONY
+
+  ANTONY. All is lost!
+    This foul Egyptian hath betrayed me.
+    My fleet hath yielded to the foe, and yonder
+    They cast their caps up and carouse together
+    Like friends long lost. Triple-turn'd whore! 'tis thou
+    Hast sold me to this novice; and my heart
+    Makes only wars on thee. Bid them all fly;
+    For when I am reveng'd upon my charm,
+    I have done all. Bid them all fly; begone.       Exit SCARUS
+    O sun, thy uprise shall I see no more!
+    Fortune and Antony part here; even here
+    Do we shake hands. All come to this? The hearts
+    That spaniel'd me at heels, to whom I gave
+    Their wishes, do discandy, melt their sweets
+    On blossoming Caesar; and this pine is bark'd
+    That overtopp'd them all. Betray'd I am.
+    O this false soul of Egypt! this grave charm-
+    Whose eye beck'd forth my wars and call'd them home,
+    Whose bosom was my crownet, my chief end-
+    Like a right gypsy hath at fast and loose
+    Beguil'd me to the very heart of loss.
+    What, Eros, Eros!
+
+                      Enter CLEOPATRA
+
+    Ah, thou spell! Avaunt!
+  CLEOPATRA. Why is my lord enrag'd against his love?
+  ANTONY. Vanish, or I shall give thee thy deserving
+    And blemish Caesar's triumph. Let him take thee
+    And hoist thee up to the shouting plebeians;
+    Follow his chariot, like the greatest spot
+    Of all thy sex; most monster-like, be shown
+    For poor'st diminutives, for doits, and let
+    Patient Octavia plough thy visage up

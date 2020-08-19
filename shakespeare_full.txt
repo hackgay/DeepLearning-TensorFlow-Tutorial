@@ -6651,3 +6651,190 @@ ACT_4|SC_14
   ANTONY. Where is she?
   DIOMEDES. Lock'd in her monument. She had a prophesying fear
     Of what hath come to pass; for when she saw-
+    Which never shall be found- you did suspect
+    She had dispos'd with Caesar, and that your rage
+    Would not be purg'd, she sent you word she was dead;
+    But fearing since how it might work, hath sent
+    Me to proclaim the truth; and I am come,
+    I dread, too late.
+  ANTONY. Too late, good Diomed. Call my guard, I prithee.
+  DIOMEDES. What, ho! the Emperor's guard! The guard, what ho!
+    Come, your lord calls!
+
+             Enter four or five of the guard of ANTONY
+
+  ANTONY. Bear me, good friends, where Cleopatra bides;
+    'Tis the last service that I shall command you.
+  FIRST GUARD. Woe, woe are we, sir, you may not live to wear
+    All your true followers out.
+  ALL. Most heavy day!
+  ANTONY. Nay, good my fellows, do not please sharp fate
+    To grace it with your sorrows. Bid that welcome
+    Which comes to punish us, and we punish it,
+    Seeming to bear it lightly. Take me up.
+    I have led you oft; carry me now, good friends,
+    And have my thanks for all.           Exeunt, hearing ANTONY
+ACT_4|SC_15
+                         SCENE XV.
+                   Alexandria. A monument
+
+      Enter CLEOPATRA and her maids aloft, with CHARMIAN
+                         and IRAS
+
+  CLEOPATRA. O Charmian, I will never go from hence!
+  CHARMIAN. Be comforted, dear madam.
+  CLEOPATRA. No, I will not.
+    All strange and terrible events are welcome,
+    But comforts we despise; our size of sorrow,
+    Proportion'd to our cause, must be as great
+    As that which makes it.
+
+                   Enter DIOMEDES, below
+
+    How now! Is he dead?
+  DIOMEDES. His death's upon him, but not dead.
+    Look out o' th' other side your monument;
+    His guard have brought him thither.
+
+            Enter, below, ANTONY, borne by the guard
+
+  CLEOPATRA. O sun,
+    Burn the great sphere thou mov'st in! Darkling stand
+    The varying shore o' th' world. O Antony,
+    Antony, Antony! Help, Charmian; help, Iras, help;
+    Help, friends below! Let's draw him hither.
+  ANTONY. Peace!
+    Not Caesar's valour hath o'erthrown Antony,
+    But Antony's hath triumph'd on itself.
+  CLEOPATRA. So it should be, that none but Antony
+    Should conquer Antony; but woe 'tis so!
+  ANTONY. I am dying, Egypt, dying; only
+    I here importune death awhile, until
+    Of many thousand kisses the poor last
+    I lay upon thy lips.
+  CLEOPATRA. I dare not, dear.
+    Dear my lord, pardon! I dare not,
+    Lest I be taken. Not th' imperious show
+    Of the full-fortun'd Caesar ever shall
+    Be brooch'd with me. If knife, drugs, serpents, have
+    Edge, sting, or operation, I am safe.
+    Your wife Octavia, with her modest eyes
+    And still conclusion, shall acquire no honour
+    Demuring upon me. But come, come, Antony-
+    Help me, my women- we must draw thee up;
+    Assist, good friends.
+  ANTONY. O, quick, or I am gone.
+  CLEOPATRA. Here's sport indeed! How heavy weighs my lord!
+    Our strength is all gone into heaviness;
+    That makes the weight. Had I great Juno's power,
+    The strong-wing'd Mercury should fetch thee up,
+    And set thee by Jove's side. Yet come a little.
+    Wishers were ever fools. O come, come,
+                          [They heave ANTONY aloft to CLEOPATRA]
+    And welcome, welcome! Die where thou hast liv'd.
+    Quicken with kissing. Had my lips that power,
+    Thus would I wear them out.
+  ALL. A heavy sight!
+  ANTONY. I am dying, Egypt, dying.
+    Give me some wine, and let me speak a little.
+  CLEOPATRA. No, let me speak; and let me rail so high
+    That the false huswife Fortune break her wheel,
+    Provok'd by my offence.
+  ANTONY. One word, sweet queen:
+    Of Caesar seek your honour, with your safety. O!
+  CLEOPATRA. They do not go together.
+  ANTONY. Gentle, hear me:
+    None about Caesar trust but Proculeius.
+  CLEOPATRA. My resolution and my hands I'll trust;
+    None about Caesar
+  ANTONY. The miserable change now at my end
+    Lament nor sorrow at; but please your thoughts
+    In feeding them with those my former fortunes
+    Wherein I liv'd the greatest prince o' th' world,
+    The noblest; and do now not basely die,
+    Not cowardly put off my helmet to
+    My countryman- a Roman by a Roman
+    Valiantly vanquish'd. Now my spirit is going
+    I can no more.
+  CLEOPATRA. Noblest of men, woo't die?
+    Hast thou no care of me? Shall I abide
+    In this dull world, which in thy absence is
+    No better than a sty? O, see, my women,        [Antony dies]
+    The crown o' th' earth doth melt. My lord!
+    O, wither'd is the garland of the war,
+    The soldier's pole is fall'n! Young boys and girls
+    Are level now with men. The odds is gone,
+    And there is nothing left remarkable
+    Beneath the visiting moon.                          [Swoons]
+  CHARMIAN. O, quietness, lady!
+  IRAS. She's dead too, our sovereign.
+  CHARMIAN. Lady!
+  IRAS. Madam!
+  CHARMIAN. O madam, madam, madam!
+  IRAS. Royal Egypt, Empress!
+  CHARMIAN. Peace, peace, Iras!
+  CLEOPATRA. No more but e'en a woman, and commanded
+    By such poor passion as the maid that milks
+    And does the meanest chares. It were for me
+    To throw my sceptre at the injurious gods;
+    To tell them that this world did equal theirs
+    Till they had stol'n our jewel. All's but nought;
+    Patience is sottish, and impatience does
+    Become a dog that's mad. Then is it sin
+    To rush into the secret house of death
+    Ere death dare come to us? How do you, women?
+    What, what! good cheer! Why, how now, Charmian!
+    My noble girls! Ah, women, women, look,
+    Our lamp is spent, it's out! Good sirs, take heart.
+    We'll bury him; and then, what's brave, what's noble,
+    Let's do it after the high Roman fashion,
+    And make death proud to take us. Come, away;
+    This case of that huge spirit now is cold.
+    Ah, women, women! Come; we have no friend
+    But resolution and the briefest end.
+                   Exeunt; those above hearing off ANTONY'S body
+
+ACT_5|SC_1
+                       ACT V. SCENE I.
+                  Alexandria. CAESAR'S camp
+
+      Enter CAESAR, AGRIPPA, DOLABELLA, MAECENAS, GALLUS,
+          PROCULEIUS, and others, his Council of War
+
+  CAESAR. Go to him, Dolabella, bid him yield;
+    Being so frustrate, tell him he mocks
+    The pauses that he makes.
+  DOLABELLA. Caesar, I shall.                               Exit
+
+             Enter DERCETAS With the sword of ANTONY
+
+  CAESAR. Wherefore is that? And what art thou that dar'st
+    Appear thus to us?
+  DERCETAS. I am call'd Dercetas;
+    Mark Antony I serv'd, who best was worthy
+    Best to be serv'd. Whilst he stood up and spoke,
+    He was my master, and I wore my life
+    To spend upon his haters. If thou please
+    To take me to thee, as I was to him
+    I'll be to Caesar; if thou pleasest not,
+    I yield thee up my life.
+  CAESAR. What is't thou say'st?
+  DERCETAS. I say, O Caesar, Antony is dead.
+  CAESAR. The breaking of so great a thing should make
+    A greater crack. The round world
+    Should have shook lions into civil streets,
+    And citizens to their dens. The death of Antony
+    Is not a single doom; in the name lay
+    A moiety of the world.
+  DERCETAS. He is dead, Caesar,
+    Not by a public minister of justice,
+    Nor by a hired knife; but that self hand
+    Which writ his honour in the acts it did
+    Hath, with the courage which the heart did lend it,
+    Splitted the heart. This is his sword;
+    I robb'd his wound of it; behold it stain'd
+    With his most noble blood.
+  CAESAR. Look you sad, friends?
+    The gods rebuke me, but it is tidings
+    To wash the eyes of kings.
+  AGRIPPA. And strange it is

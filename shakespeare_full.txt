@@ -6838,3 +6838,190 @@ ACT_5|SC_1
     The gods rebuke me, but it is tidings
     To wash the eyes of kings.
   AGRIPPA. And strange it is
+    That nature must compel us to lament
+    Our most persisted deeds.
+  MAECENAS. His taints and honours
+    Wag'd equal with him.
+  AGRIPPA. A rarer spirit never
+    Did steer humanity. But you gods will give us
+    Some faults to make us men. Caesar is touch'd.
+  MAECENAS. When such a spacious mirror's set before him,
+    He needs must see himself.
+  CAESAR. O Antony,
+    I have follow'd thee to this! But we do lance
+    Diseases in our bodies. I must perforce
+    Have shown to thee such a declining day
+    Or look on thine; we could not stall together
+    In the whole world. But yet let me lament,
+    With tears as sovereign as the blood of hearts,
+    That thou, my brother, my competitor
+    In top of all design, my mate in empire,
+    Friend and companion in the front of war,
+    The arm of mine own body, and the heart
+    Where mine his thoughts did kindle- that our stars,
+    Unreconciliable, should divide
+    Our equalness to this. Hear me, good friends-
+
+                    Enter an EGYPTIAN
+
+    But I will tell you at some meeter season.
+    The business of this man looks out of him;
+    We'll hear him what he says. Whence are you?
+  EGYPTIAN. A poor Egyptian, yet the Queen, my mistress,
+    Confin'd in all she has, her monument,
+    Of thy intents desires instruction,
+    That she preparedly may frame herself
+    To th' way she's forc'd to.
+  CAESAR. Bid her have good heart.
+    She soon shall know of us, by some of ours,
+    How honourable and how kindly we
+    Determine for her; for Caesar cannot learn
+    To be ungentle.
+  EGYPTIAN. So the gods preserve thee!                      Exit
+  CAESAR. Come hither, Proculeius. Go and say
+    We purpose her no shame. Give her what comforts
+    The quality of her passion shall require,
+    Lest, in her greatness, by some mortal stroke
+    She do defeat us; for her life in Rome
+    Would be eternal in our triumph. Go,
+    And with your speediest bring us what she says,
+    And how you find her.
+  PROCULEIUS. Caesar, I shall.                              Exit
+  CAESAR. Gallus, go you along.                      Exit GALLUS
+    Where's Dolabella, to second Proculeius?
+  ALL. Dolabella!
+  CAESAR. Let him alone, for I remember now
+    How he's employ'd; he shall in time be ready.
+    Go with me to my tent, where you shall see
+    How hardly I was drawn into this war,
+    How calm and gentle I proceeded still
+    In all my writings. Go with me, and see
+    What I can show in this.                              Exeunt
+
+ACT_5|SC_2
+                         SCENE II.
+                Alexandria. The monument
+
+      Enter CLEOPATRA, CHARMIAN, IRAS, and MARDIAN
+
+  CLEOPATRA. My desolation does begin to make
+    A better life. 'Tis paltry to be Caesar:
+    Not being Fortune, he's but Fortune's knave,
+    A minister of her will; and it is great
+    To do that thing that ends all other deeds,
+    Which shackles accidents and bolts up change,
+    Which sleeps, and never palates more the dug,
+    The beggar's nurse and Caesar's.
+
+       Enter, to the gates of the monument, PROCULEIUS, GALLUS,
+                          and soldiers
+
+  PROCULEIUS. Caesar sends greetings to the Queen of Egypt,
+    And bids thee study on what fair demands
+    Thou mean'st to have him grant thee.
+  CLEOPATRA. What's thy name?
+  PROCULEIUS. My name is Proculeius.
+  CLEOPATRA. Antony
+    Did tell me of you, bade me trust you; but
+    I do not greatly care to be deceiv'd,
+    That have no use for trusting. If your master
+    Would have a queen his beggar, you must tell him
+    That majesty, to keep decorum, must
+    No less beg than a kingdom. If he please
+    To give me conquer'd Egypt for my son,
+    He gives me so much of mine own as I
+    Will kneel to him with thanks.
+  PROCULEIUS. Be of good cheer;
+    Y'are fall'n into a princely hand; fear nothing.
+    Make your full reference freely to my lord,
+    Who is so full of grace that it flows over
+    On all that need. Let me report to him
+    Your sweet dependency, and you shall find
+    A conqueror that will pray in aid for kindness
+    Where he for grace is kneel'd to.
+  CLEOPATRA. Pray you tell him
+    I am his fortune's vassal and I send him
+    The greatness he has got. I hourly learn
+    A doctrine of obedience, and would gladly
+    Look him i' th' face.
+  PROCULEIUS. This I'll report, dear lady.
+    Have comfort, for I know your plight is pitied
+    Of him that caus'd it.
+  GALLUS. You see how easily she may be surpris'd.
+
+      Here PROCULEIUS and two of the guard ascend the
+       monument by a ladder placed against a window,
+       and come behind CLEOPATRA. Some of the guard
+                unbar and open the gates
+
+    Guard her till Caesar come.                             Exit
+  IRAS. Royal Queen!
+  CHARMIAN. O Cleopatra! thou art taken, Queen!
+  CLEOPATRA. Quick, quick, good hands.        [Drawing a dagger]
+  PROCULEIUS. Hold, worthy lady, hold,             [Disarms her]
+    Do not yourself such wrong, who are in this
+    Reliev'd, but not betray'd.
+  CLEOPATRA. What, of death too,
+    That rids our dogs of languish?
+  PROCULEIUS. Cleopatra,
+    Do not abuse my master's bounty by
+    Th' undoing of yourself. Let the world see
+    His nobleness well acted, which your death
+    Will never let come forth.
+  CLEOPATRA. Where art thou, death?
+    Come hither, come! Come, come, and take a queen
+    Worth many babes and beggars!
+  PROCULEIUS. O, temperance, lady!
+  CLEOPATRA. Sir, I will eat no meat; I'll not drink, sir;
+    If idle talk will once be necessary,
+    I'll not sleep neither. This mortal house I'll ruin,
+    Do Caesar what he can. Know, sir, that I
+    Will not wait pinion'd at your master's court,
+    Nor once be chastis'd with the sober eye
+    Of dull Octavia. Shall they hoist me up,
+    And show me to the shouting varletry
+    Of censuring Rome? Rather a ditch in Egypt
+    Be gentle grave unto me! Rather on Nilus' mud
+    Lay me stark-nak'd, and let the water-flies
+    Blow me into abhorring! Rather make
+    My country's high pyramides my gibbet,
+    And hang me up in chains!
+  PROCULEIUS. You do extend
+    These thoughts of horror further than you shall
+    Find cause in Caesar.
+
+                      Enter DOLABELLA
+
+  DOLABELLA. Proculeius,
+    What thou hast done thy master Caesar knows,
+    And he hath sent for thee. For the Queen,
+    I'll take her to my guard.
+  PROCULEIUS. So, Dolabella,
+    It shall content me best. Be gentle to her.
+    [To CLEOPATRA] To Caesar I will speak what you shall please,
+    If you'll employ me to him.
+  CLEOPATRA. Say I would die.
+                                  Exeunt PROCULEIUS and soldiers
+  DOLABELLA. Most noble Empress, you have heard of me?
+  CLEOPATRA. I cannot tell.
+  DOLABELLA. Assuredly you know me.
+  CLEOPATRA. No matter, sir, what I have heard or known.
+    You laugh when boys or women tell their dreams;
+    Is't not your trick?
+  DOLABELLA. I understand not, madam.
+  CLEOPATRA. I dreamt there was an Emperor Antony-
+    O, such another sleep, that I might see
+    But such another man!
+  DOLABELLA. If it might please ye-
+  CLEOPATRA. His face was as the heav'ns, and therein stuck
+    A sun and moon, which kept their course and lighted
+    The little O, the earth.
+  DOLABELLA. Most sovereign creature-
+  CLEOPATRA. His legs bestrid the ocean; his rear'd arm
+    Crested the world. His voice was propertied
+    As all the tuned spheres, and that to friends;
+    But when he meant to quail and shake the orb,
+    He was as rattling thunder. For his bounty,
+    There was no winter in't; an autumn 'twas
+    That grew the more by reaping. His delights
+    Were dolphin-like: they show'd his back above

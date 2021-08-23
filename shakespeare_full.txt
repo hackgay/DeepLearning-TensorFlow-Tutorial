@@ -53085,3 +53085,207 @@ Enter PRINCE HENRY, SALISBURY, and BIGOT
     Where be your pow'rs? Show now your mended faiths,
     And instantly return with me again
     To push destruction and perpetual shame
+    Out of the weak door of our fainting land.
+    Straight let us seek, or straight we shall be sought;
+    The Dauphin rages at our very heels.
+  SALISBURY. It seems you know not, then, so much as we:
+    The Cardinal Pandulph is within at rest,
+    Who half an hour since came from the Dauphin,
+    And brings from him such offers of our peace
+    As we with honour and respect may take,
+    With purpose presently to leave this war.
+  BASTARD. He will the rather do it when he sees
+    Ourselves well sinewed to our defence.
+  SALISBURY. Nay, 'tis in a manner done already;
+    For many carriages he hath dispatch'd
+    To the sea-side, and put his cause and quarrel
+    To the disposing of the Cardinal;
+    With whom yourself, myself, and other lords,
+    If you think meet, this afternoon will post
+    To consummate this business happily.
+  BASTARD. Let it be so. And you, my noble Prince,
+    With other princes that may best be spar'd,
+    Shall wait upon your father's funeral.
+  PRINCE HENRY. At Worcester must his body be interr'd;
+    For so he will'd it.
+  BASTARD. Thither shall it, then;
+    And happily may your sweet self put on
+    The lineal state and glory of the land!
+    To whom, with all submission, on my knee
+    I do bequeath my faithful services
+    And true subjection everlastingly.
+  SALISBURY. And the like tender of our love we make,
+    To rest without a spot for evermore.
+  PRINCE HENRY. I have a kind soul that would give you thanks,
+    And knows not how to do it but with tears.
+  BASTARD. O, let us pay the time but needful woe,
+    Since it hath been beforehand with our griefs.
+    This England never did, nor never shall,
+    Lie at the proud foot of a conqueror,
+    But when it first did help to wound itself.
+    Now these her princes are come home again,
+    Come the three corners of the world in arms,
+    And we shall shock them. Nought shall make us rue,
+    If England to itself do rest but true.                     Exeunt
+
+THE END
+
+
+
+
+
+
+
+
+
+
+
+1599
+
+
+THE TRAGEDY OF JULIUS CAESAR
+
+by William Shakespeare
+
+
+
+Dramatis Personae
+
+  JULIUS CAESAR, Roman statesman and general
+  OCTAVIUS, Triumvir after Caesar's death, later Augustus Caesar,
+    first emperor of Rome
+  MARK ANTONY, general and friend of Caesar, a Triumvir after his death
+  LEPIDUS, third member of the Triumvirate
+  MARCUS BRUTUS, leader of the conspiracy against Caesar
+  CASSIUS, instigator of the conspiracy
+  CASCA,          conspirator against Caesar
+  TREBONIUS,           "          "     "
+  CAIUS LIGARIUS,      "          "     "
+  DECIUS BRUTUS,       "          "     "
+  METELLUS CIMBER,     "          "     "
+  CINNA,               "          "     "
+  CALPURNIA, wife of Caesar
+  PORTIA, wife of Brutus
+  CICERO,     senator
+  POPILIUS,      "
+  POPILIUS LENA, "
+  FLAVIUS, tribune
+  MARULLUS, tribune
+  CATO,     supportor of Brutus
+  LUCILIUS,     "     "    "
+  TITINIUS,     "     "    "
+  MESSALA,      "     "    "
+  VOLUMNIUS,    "     "    "
+  ARTEMIDORUS, a teacher of rhetoric
+  CINNA, a poet
+  VARRO,     servant to Brutus
+  CLITUS,       "    "     "
+  CLAUDIO,      "    "     "
+  STRATO,       "    "     "
+  LUCIUS,       "    "     "
+  DARDANIUS,    "    "     "
+  PINDARUS, servant to Cassius
+  The Ghost of Caesar
+  A Soothsayer
+  A Poet
+  Senators, Citizens, Soldiers, Commoners, Messengers, and Servants
+
+
+
+
+
+
+
+
+
+SCENE: Rome, the conspirators' camp near Sardis,  and the plains of Philippi.
+
+
+ACT I. SCENE I.
+Rome. A street.
+
+Enter Flavius, Marullus, and certain Commoners.
+
+  FLAVIUS. Hence, home, you idle creatures, get you home.
+    Is this a holiday? What, know you not,
+    Being mechanical, you ought not walk
+    Upon a laboring day without the sign
+    Of your profession? Speak, what trade art thou?
+  FIRST COMMONER. Why, sir, a carpenter.
+  MARULLUS. Where is thy leather apron and thy rule?
+    What dost thou with thy best apparel on?
+    You, sir, what trade are you?
+  SECOND COMMONER. Truly, sir, in respect of a fine workman, I am
+    but, as you would say, a cobbler.
+  MARULLUS. But what trade art thou? Answer me directly.
+  SECOND COMMONER. A trade, sir, that, I hope, I may use with a safe
+    conscience, which is indeed, sir, a mender of bad soles.
+  MARULLUS. What trade, thou knave? Thou naughty knave, what trade?
+  SECOND COMMONER. Nay, I beseech you, sir, be not out with me; yet,
+    if you be out, sir, I can mend you.
+  MARULLUS. What mean'st thou by that? Mend me, thou saucy fellow!
+  SECOND COMMONER. Why, sir, cobble you.
+  FLAVIUS. Thou art a cobbler, art thou?
+  SECOND COMMONER. Truly, Sir, all that I live by is with the awl; I
+    meddle with no tradesman's matters, nor women's matters, but with
+    awl. I am indeed, sir, a surgeon to old shoes; when they are in
+    great danger, I recover them. As proper men as ever trod upon
+    neat's leather have gone upon my handiwork.
+  FLAVIUS. But wherefore art not in thy shop today?
+    Why dost thou lead these men about the streets?
+  SECOND COMMONER. Truly, sir, to wear out their shoes to get myself
+    into more work. But indeed, sir, we make holiday to see Caesar
+    and to rejoice in his triumph.
+  MARULLUS. Wherefore rejoice? What conquest brings he home?
+    What tributaries follow him to Rome
+    To grace in captive bonds his chariot wheels?
+    You blocks, you stones, you worse than senseless things!
+    O you hard hearts, you cruel men of Rome,
+    Knew you not Pompey? Many a time and oft
+    Have you climb'd up to walls and battlements,
+    To towers and windows, yea, to chimney tops,
+    Your infants in your arms, and there have sat
+    The livelong day with patient expectation
+    To see great Pompey pass the streets of Rome.
+    And when you saw his chariot but appear,
+    Have you not made an universal shout
+    That Tiber trembled underneath her banks
+    To hear the replication of your sounds
+    Made in her concave shores?
+    And do you now put on your best attire?
+    And do you now cull out a holiday?
+    And do you now strew flowers in his way
+    That comes in triumph over Pompey's blood?
+    Be gone!
+    Run to your houses, fall upon your knees,
+    Pray to the gods to intermit the plague
+    That needs must light on this ingratitude.
+  FLAVIUS. Go, go, good countrymen, and, for this fault,
+    Assemble all the poor men of your sort,
+    Draw them to Tiber banks, and weep your tears
+    Into the channel, till the lowest stream
+    Do kiss the most exalted shores of all.
+                                           Exeunt all Commoners.
+    See whether their basest metal be not moved;
+    They vanish tongue-tied in their guiltiness.
+    Go you down that way towards the Capitol;
+    This way will I. Disrobe the images
+    If you do find them deck'd with ceremonies.
+  MARULLUS. May we do so?
+    You know it is the feast of Lupercal.
+  FLAVIUS. It is no matter; let no images
+    Be hung with Caesar's trophies. I'll about
+    And drive away the vulgar from the streets;
+    So do you too, where you perceive them thick.
+    These growing feathers pluck'd from Caesar's wing
+    Will make him fly an ordinary pitch,
+    Who else would soar above the view of men
+    And keep us all in servile fearfulness.              Exeunt.
+
+
+
+
+SCENE II.
+A public place.
+
+Flourish. Enter Caesar; Antony, for the course; Calpurnia, Portia,

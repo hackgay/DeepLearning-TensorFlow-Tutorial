@@ -57254,3 +57254,187 @@ Enter [Edmund the] Bastard and Curan, meeting.
      Stop, stop! No help?
 
              Enter Gloucester, and Servants with torches.
+
+  Glou. Now, Edmund, where's the villain?
+  Edm. Here stood he in the dark, his sharp sword out,
+     Mumbling of wicked charms, conjuring the moon
+     To stand 's auspicious mistress.
+  Glou. But where is he?
+  Edm. Look, sir, I bleed.
+  Glou. Where is the villain, Edmund?
+  Edm. Fled this way, sir. When by no means he could-
+  Glou. Pursue him, ho! Go after.        [Exeunt some Servants].
+     By no means what?
+  Edm. Persuade me to the murther of your lordship;
+     But that I told him the revenging gods
+     'Gainst parricides did all their thunders bend;
+     Spoke with how manifold and strong a bond
+     The child was bound to th' father- sir, in fine,
+     Seeing how loathly opposite I stood
+     To his unnatural purpose, in fell motion
+     With his prepared sword he charges home
+     My unprovided body, lanch'd mine arm;
+     But when he saw my best alarum'd spirits,
+     Bold in the quarrel's right, rous'd to th' encounter,
+     Or whether gasted by the noise I made,
+     Full suddenly he fled.
+  Glou. Let him fly far.
+     Not in this land shall he remain uncaught;
+     And found- dispatch. The noble Duke my master,
+     My worthy arch and patron, comes to-night.
+     By his authority I will proclaim it
+     That he which find, him shall deserve our thanks,
+     Bringing the murderous caitiff to the stake;
+     He that conceals him, death.
+  Edm. When I dissuaded him from his intent
+     And found him pight to do it, with curst speech
+     I threaten'd to discover him. He replied,
+     'Thou unpossessing bastard, dost thou think,
+     If I would stand against thee, would the reposal
+     Of any trust, virtue, or worth in thee
+     Make thy words faith'd? No. What I should deny
+     (As this I would; ay, though thou didst produce
+     My very character), I'ld turn it all
+     To thy suggestion, plot, and damned practice;
+     And thou must make a dullard of the world,
+     If they not thought the profits of my death
+     Were very pregnant and potential spurs
+     To make thee seek it.'
+  Glou. Strong and fast'ned villain!
+     Would he deny his letter? I never got him.
+                                                  Tucket within.
+     Hark, the Duke's trumpets! I know not why he comes.
+     All ports I'll bar; the villain shall not scape;
+     The Duke must grant me that. Besides, his picture
+     I will send far and near, that all the kingdom
+     May have due note of him, and of my land,
+     Loyal and natural boy, I'll work the means
+     To make thee capable.
+
+                Enter Cornwall, Regan, and Attendants.
+
+  Corn. How now, my noble friend? Since I came hither
+     (Which I can call but now) I have heard strange news.
+  Reg. If it be true, all vengeance comes too short
+     Which can pursue th' offender. How dost, my lord?
+  Glou. O madam, my old heart is crack'd, it's crack'd!
+  Reg. What, did my father's godson seek your life?
+     He whom my father nam'd? Your Edgar?
+  Glou. O lady, lady, shame would have it hid!
+  Reg. Was he not companion with the riotous knights
+     That tend upon my father?
+  Glou. I know not, madam. 'Tis too bad, too bad!
+  Edm. Yes, madam, he was of that consort.
+  Reg. No marvel then though he were ill affected.
+     'Tis they have put him on the old man's death,
+     To have th' expense and waste of his revenues.
+     I have this present evening from my sister
+     Been well inform'd of them, and with such cautions
+     That, if they come to sojourn at my house,
+     I'll not be there.
+  Corn. Nor I, assure thee, Regan.
+     Edmund, I hear that you have shown your father
+     A childlike office.
+  Edm. 'Twas my duty, sir.
+  Glou. He did bewray his practice, and receiv'd
+     This hurt you see, striving to apprehend him.
+  Corn. Is he pursued?
+  Glou. Ay, my good lord.
+  Corn. If he be taken, he shall never more
+     Be fear'd of doing harm. Make your own purpose,
+     How in my strength you please. For you, Edmund,
+     Whose virtue and obedience doth this instant
+     So much commend itself, you shall be ours.
+     Natures of such deep trust we shall much need;
+     You we first seize on.
+  Edm. I shall serve you, sir,
+     Truly, however else.
+  Glou. For him I thank your Grace.
+  Corn. You know not why we came to visit you-
+  Reg. Thus out of season, threading dark-ey'd night.
+     Occasions, noble Gloucester, of some poise,
+     Wherein we must have use of your advice.
+     Our father he hath writ, so hath our sister,
+     Of differences, which I best thought it fit
+     To answer from our home. The several messengers
+     From hence attend dispatch. Our good old friend,
+     Lay comforts to your bosom, and bestow
+     Your needful counsel to our business,
+     Which craves the instant use.
+  Glou. I serve you, madam.
+     Your Graces are right welcome.
+                                               Exeunt. Flourish.
+
+
+
+
+Scene II.
+Before Gloucester's Castle.
+
+Enter Kent and [Oswald the] Steward, severally.
+
+  Osw. Good dawning to thee, friend. Art of this house?
+  Kent. Ay.
+  Osw. Where may we set our horses?
+  Kent. I' th' mire.
+  Osw. Prithee, if thou lov'st me, tell me.
+  Kent. I love thee not.
+  Osw. Why then, I care not for thee.
+  Kent. If I had thee in Lipsbury Pinfold, I would make thee care for
+     me.
+  Osw. Why dost thou use me thus? I know thee not.
+  Kent. Fellow, I know thee.
+  Osw. What dost thou know me for?
+  Kent. A knave; a rascal; an eater of broken meats; a base, proud,
+     shallow, beggarly, three-suited, hundred-pound, filthy,
+     worsted-stocking knave; a lily-liver'd, action-taking, whoreson,
+     glass-gazing, superserviceable, finical rogue;
+     one-trunk-inheriting slave; one that wouldst be a bawd in way of
+     good service, and art nothing but the composition of a knave,
+     beggar, coward, pander, and the son and heir of a mongrel bitch;
+     one whom I will beat into clamorous whining, if thou deny the
+     least syllable of thy addition.
+  Osw. Why, what a monstrous fellow art thou, thus to rail on one
+     that's neither known of thee nor knows thee!
+  Kent. What a brazen-fac'd varlet art thou, to deny thou knowest me!
+     Is it two days ago since I beat thee and tripp'd up thy heels
+     before the King? [Draws his sword.] Draw, you rogue! for, though
+     it be night, yet the moon shines. I'll make a sop o' th'
+     moonshine o' you. Draw, you whoreson cullionly barbermonger!
+     draw!
+  Osw. Away! I have nothing to do with thee.
+  Kent. Draw, you rascal! You come with letters against the King, and
+     take Vanity the puppet's part against the royalty of her father.
+     Draw, you rogue, or I'll so carbonado your shanks! Draw, you
+     rascal! Come your ways!
+  Osw. Help, ho! murther! help!
+  Kent. Strike, you slave! Stand, rogue! Stand, you neat slave!
+     Strike!                                        [Beats him.]
+  Osw. Help, ho! murther! murther!
+
+      Enter Edmund, with his rapier drawn, Gloucester, Cornwall,
+                           Regan, Servants.
+
+  Edm. How now? What's the matter?                 Parts [them].
+  Kent. With you, goodman boy, an you please! Come, I'll flesh ye!
+     Come on, young master!
+  Glou. Weapons? arms? What's the matter here?
+  Corn. Keep peace, upon your lives!
+     He dies that strikes again. What is the matter?
+  Reg. The messengers from our sister and the King
+  Corn. What is your difference? Speak.
+  Osw. I am scarce in breath, my lord.
+  Kent. No marvel, you have so bestirr'd your valour. You cowardly
+     rascal, nature disclaims in thee; a tailor made thee.
+  Corn. Thou art a strange fellow. A tailor make a man?
+  Kent. Ay, a tailor, sir. A stonecutter or a painter could not have
+     made him so ill, though he had been but two hours at the trade.
+  Corn. Speak yet, how grew your quarrel?
+  Osw. This ancient ruffian, sir, whose life I have spar'd
+     At suit of his grey beard-
+  Kent. Thou whoreson zed! thou unnecessary letter! My lord, if
+     you'll give me leave, I will tread this unbolted villain into
+     mortar and daub the walls of a jakes with him. 'Spare my grey
+     beard,' you wagtail?
+  Corn. Peace, sirrah!
+     You beastly knave, know you no reverence?

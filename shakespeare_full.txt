@@ -62996,3 +62996,196 @@ Enter the PRINCESS, MARIA, KATHARINE, and ROSALINE
   BEROWNE. To move wild laughter in the throat of death?
     It cannot be; it is impossible;
     Mirth cannot move a soul in agony.
+  ROSALINE. Why, that's the way to choke a gibing spirit,
+    Whose influence is begot of that loose grace
+    Which shallow laughing hearers give to fools.
+    A jest's prosperity lies in the ear
+    Of him that hears it, never in the tongue
+    Of him that makes it; then, if sickly ears,
+    Deaf'd with the clamours of their own dear groans,
+    Will hear your idle scorns, continue then,
+    And I will have you and that fault withal.
+    But if they will not, throw away that spirit,
+    And I shall find you empty of that fault,
+    Right joyful of your reformation.
+  BEROWNE. A twelvemonth? Well, befall what will befall,
+    I'll jest a twelvemonth in an hospital.
+  PRINCESS OF FRANCE. [ To the King] Ay, sweet my lord, and so I take
+    my leave.
+  KING. No, madam; we will bring you on your way.
+  BEROWNE. Our wooing doth not end like an old play:
+    Jack hath not Jill. These ladies' courtesy
+    Might well have made our sport a comedy.
+  KING. Come, sir, it wants a twelvemonth an' a day,
+    And then 'twill end.
+  BEROWNE. That's too long for a play.
+
+                          Re-enter ARMADO
+
+  ARMADO. Sweet Majesty, vouchsafe me-
+  PRINCESS OF FRANCE. Was not that not Hector?
+  DUMAIN. The worthy knight of Troy.
+  ARMADO. I will kiss thy royal finger, and take leave. I am a
+    votary: I have vow'd to Jaquenetta to hold the plough for her
+    sweet love three year. But, most esteemed greatness, will you
+    hear the dialogue that the two learned men have compiled in
+    praise of the Owl and the Cuckoo? It should have followed in the
+    end of our show.
+  KING. Call them forth quickly; we will do so.
+  ARMADO. Holla! approach.
+
+                            Enter All
+
+    This side is Hiems, Winter; this Ver, the Spring- the one
+    maintained by the Owl, th' other by the Cuckoo. Ver, begin.
+
+                      SPRING
+         When daisies pied and violets blue
+         And lady-smocks all silver-white
+         And cuckoo-buds of yellow hue
+         Do paint the meadows with delight,
+         The cuckoo then on every tree
+         Mocks married men, for thus sings he:
+              'Cuckoo;
+         Cuckoo, cuckoo'- O word of fear,
+         Unpleasing to a married ear!
+
+         When shepherds pipe on oaten straws,
+         And merry larks are ploughmen's clocks;
+         When turtles tread, and rooks and daws,
+         And maidens bleach their summer smocks;
+         The cuckoo then on every tree
+         Mocks married men, for thus sings he:
+              'Cuckoo;
+         Cuckoo, cuckoo'- O word of fear,
+         Unpleasing to a married ear!
+
+
+                    WINTER
+
+         When icicles hang by the wall,
+         And Dick the shepherd blows his nail,
+         And Tom bears logs into the hall,
+         And milk comes frozen home in pail,
+         When blood is nipp'd, and ways be foul,
+         Then nightly sings the staring owl:
+              'Tu-who;
+         Tu-whit, Tu-who'- A merry note,
+         While greasy Joan doth keel the pot.
+
+         When all aloud the wind doth blow,
+         And coughing drowns the parson's saw,
+         And birds sit brooding in the snow,
+         And Marian's nose looks red and raw,
+         When roasted crabs hiss in the bowl,
+         Then nightly sings the staring owl:
+              'Tu-who;
+         Tu-whit, To-who'- A merry note,
+         While greasy Joan doth keel the pot.
+
+  ARMADO. The words of Mercury are harsh after the songs of Apollo.
+    You that way: we this way.                            Exeunt
+
+THE END
+
+
+
+
+
+
+
+
+
+
+
+1606
+
+THE TRAGEDY OF MACBETH
+
+
+by William Shakespeare
+
+
+
+Dramatis Personae
+
+  DUNCAN, King of Scotland
+  MACBETH, Thane of Glamis and Cawdor, a general in the King's army
+  LADY MACBETH, his wife
+  MACDUFF, Thane of Fife, a nobleman of Scotland
+  LADY MACDUFF, his wife
+  MALCOLM, elder son of Duncan
+  DONALBAIN, younger son of Duncan
+  BANQUO, Thane of Lochaber, a general in the King's army
+  FLEANCE, his son
+  LENNOX, nobleman of Scotland
+  ROSS, nobleman of Scotland
+  MENTEITH nobleman of Scotland
+  ANGUS, nobleman of Scotland
+  CAITHNESS, nobleman of Scotland
+  SIWARD, Earl of Northumberland, general of the English forces
+  YOUNG SIWARD, his son
+  SEYTON, attendant to Macbeth
+  HECATE, Queen of the Witches
+  The Three Witches
+  Boy, Son of Macduff
+  Gentlewoman attending on Lady Macbeth
+  An English Doctor
+  A Scottish Doctor
+  A Sergeant
+  A Porter
+  An Old Man
+  The Ghost of Banquo and other Apparitions
+  Lords, Gentlemen, Officers, Soldiers, Murtherers, Attendants,
+     and Messengers
+
+
+
+
+
+
+
+
+
+SCENE: Scotland and England
+
+
+ACT I. SCENE I.
+A desert place. Thunder and lightning.
+
+Enter three Witches.
+
+  FIRST WITCH. When shall we three meet again?
+    In thunder, lightning, or in rain?
+  SECOND WITCH. When the hurlyburly's done,
+    When the battle's lost and won.
+  THIRD WITCH. That will be ere the set of sun.
+  FIRST WITCH. Where the place?
+  SECOND WITCH. Upon the heath.
+  THIRD WITCH. There to meet with Macbeth.
+  FIRST WITCH. I come, Graymalkin.
+  ALL. Paddock calls. Anon!
+    Fair is foul, and foul is fair.
+    Hover through the fog and filthy air.                Exeunt.
+
+
+
+
+SCENE II.
+A camp near Forres. Alarum within.
+
+Enter Duncan, Malcolm, Donalbain, Lennox, with Attendants,
+meeting a bleeding Sergeant.
+
+  DUNCAN. What bloody man is that? He can report,
+    As seemeth by his plight, of the revolt
+    The newest state.
+  MALCOLM. This is the sergeant
+    Who like a good and hardy soldier fought
+    'Gainst my captivity. Hail, brave friend!
+    Say to the King the knowledge of the broil
+    As thou didst leave it.
+  SERGEANT. Doubtful it stood,
+    As two spent swimmers that do cling together
+    And choke their art. The merciless Macdonwald-
+    Worthy to be a rebel, for to that

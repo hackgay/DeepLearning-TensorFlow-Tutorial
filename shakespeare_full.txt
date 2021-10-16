@@ -63571,3 +63571,172 @@ Enter Lady Macbeth, reading a letter.
   MESSENGER. So please you, it is true; our Thane is coming.
     One of my fellows had the speed of him,
     Who, almost dead for breath, had scarcely more
+    Than would make up his message.
+  LADY MACBETH. Give him tending;
+    He brings great news.                        Exit Messenger.
+    The raven himself is hoarse
+    That croaks the fatal entrance of Duncan
+    Under my battlements. Come, you spirits
+    That tend on mortal thoughts, unsex me here
+    And fill me from the crown to the toe top-full
+    Of direst cruelty! Make thick my blood,
+    Stop up the access and passage to remorse,
+    That no compunctious visitings of nature
+    Shake my fell purpose nor keep peace between
+    The effect and it! Come to my woman's breasts,
+    And take my milk for gall, your murthering ministers,
+    Wherever in your sightless substances
+    You wait on nature's mischief! Come, thick night,
+    And pall thee in the dunnest smoke of hell
+    That my keen knife see not the wound it makes
+    Nor heaven peep through the blanket of the dark
+    To cry, "Hold, hold!"
+
+                    Enter Macbeth.
+
+    Great Glamis! Worthy Cawdor!
+    Greater than both, by the all-hail hereafter!
+    Thy letters have transported me beyond
+    This ignorant present, and I feel now
+    The future in the instant.
+  MACBETH. My dearest love,
+    Duncan comes here tonight.
+  LADY MACBETH. And when goes hence?
+  MACBETH. Tomorrow, as he purposes.
+  LADY MACBETH. O, never
+    Shall sun that morrow see!
+    Your face, my Thane, is as a book where men
+    May read strange matters. To beguile the time,
+    Look like the time; bear welcome in your eye,
+    Your hand, your tongue; look like the innocent flower,
+    But be the serpent under it. He that's coming
+    Must be provided for; and you shall put
+    This night's great business into my dispatch,
+    Which shall to all our nights and days to come
+    Give solely sovereign sway and masterdom.
+  MACBETH. We will speak further.
+  LADY MACBETH. Only look up clear;
+    To alter favor ever is to fear.
+    Leave all the rest to me.                            Exeunt.
+
+
+
+
+SCENE VI.
+Before Macbeth's castle.  Hautboys and torches.
+
+Enter Duncan, Malcolm, Donalbain, Banquo, Lennox, Macduff, Ross, Angus,
+and Attendants.
+
+  DUNCAN. This castle hath a pleasant seat; the air
+    Nimbly and sweetly recommends itself
+    Unto our gentle senses.
+  BANQUO. This guest of summer,
+    The temple-haunting martlet, does approve
+    By his loved mansionry that the heaven's breath
+    Smells wooingly here. No jutty, frieze,
+    Buttress, nor coign of vantage, but this bird
+    Hath made his pendant bed and procreant cradle;
+    Where they most breed and haunt, I have observed
+    The air is delicate.
+
+                     Enter Lady Macbeth.
+
+  DUNCAN. See, see, our honor'd hostess!
+    The love that follows us sometime is our trouble,
+    Which still we thank as love. Herein I teach you
+    How you shall bid God 'ield us for your pains,
+    And thank us for your trouble.
+  LADY MACBETH. All our service
+    In every point twice done, and then done double,
+    Were poor and single business to contend
+    Against those honors deep and broad wherewith
+    Your Majesty loads our house. For those of old,
+    And the late dignities heap'd up to them,
+    We rest your hermits.
+  DUNCAN. Where's the Thane of Cawdor?
+    We coursed him at the heels and had a purpose
+    To be his purveyor; but he rides well,
+    And his great love, sharp as his spur, hath holp him
+    To his home before us. Fair and noble hostess,
+    We are your guest tonight.
+  LADY MACBETH. Your servants ever
+    Have theirs, themselves, and what is theirs, in compt,
+    To make their audit at your Highness' pleasure,
+    Still to return your own.
+  DUNCAN. Give me your hand;
+    Conduct me to mine host. We love him highly,
+    And shall continue our graces towards him.
+    By your leave, hostess.                              Exeunt.
+
+
+
+
+SCENE VII
+Macbeth's castle.  Hautboys and torches.
+
+Enter a Sewer and divers Servants with dishes and service, who pass over
+the stage.  Then enter Macbeth.
+
+  MACBETH. If it were done when 'tis done, then 'twere well
+    It were done quickly. If the assassination
+    Could trammel up the consequence, and catch,
+    With his surcease, success; that but this blow
+    Might be the be-all and the end-all -here,
+    But here, upon this bank and shoal of time,
+    We'ld jump the life to come. But in these cases
+    We still have judgement here, that we but teach
+    Bloody instructions, which being taught return
+    To plague the inventor. This even-handed justice
+    Commends the ingredients of our poison'd chalice
+    To our own lips. He's here in double trust:
+    First, as I am his kinsman and his subject,
+    Strong both against the deed; then, as his host,
+    Who should against his murtherer shut the door,
+    Not bear the knife myself. Besides, this Duncan
+    Hath borne his faculties so meek, hath been
+    So clear in his great office, that his virtues
+    Will plead like angels trumpet-tongued against
+    The deep damnation of his taking-off,
+    And pity, like a naked new-born babe
+    Striding the blast, or heaven's cherubin horsed
+    Upon the sightless couriers of the air,
+    Shall blow the horrid deed in every eye,
+    That tears shall drown the wind. I have no spur
+    To prick the sides of my intent, but only
+    Vaulting ambition, which o'erleaps itself
+    And falls on the other.
+
+                 Enter Lady Macbeth.
+
+    How now, what news?
+  LADY MACBETH. He has almost supp'd. Why have you left the chamber?
+  MACBETH. Hath he ask'd for me?
+  LADY MACBETH. Know you not he has?
+  MACBETH. We will proceed no further in this business:
+    He hath honor'd me of late, and I have bought
+    Golden opinions from all sorts of people,
+    Which would be worn now in their newest gloss,
+    Not cast aside so soon.
+  LADY MACBETH. Was the hope drunk
+    Wherein you dress'd yourself? Hath it slept since?
+    And wakes it now, to look so green and pale
+    At what it did so freely? From this time
+    Such I account thy love. Art thou afeard
+    To be the same in thine own act and valor
+    As thou art in desire? Wouldst thou have that
+    Which thou esteem'st the ornament of life
+    And live a coward in thine own esteem,
+    Letting "I dare not" wait upon "I would"
+    Like the poor cat i' the adage?
+  MACBETH. Prithee, peace!
+    I dare do all that may become a man;
+    Who dares do more is none.
+  LADY MACBETH. What beast wast then
+    That made you break this enterprise to me?
+    When you durst do it, then you were a man,
+    And, to be more than what you were, you would
+    Be so much more the man. Nor time nor place
+    Did then adhere, and yet you would make both.
+    They have made themselves, and that their fitness now
+    Does unmake you. I have given suck and know

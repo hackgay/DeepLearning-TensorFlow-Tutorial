@@ -64522,3 +64522,182 @@ Enter three Murtherers.
 
   THIRD MURTHERER. 'Tis he.
   FIRST MURTHERER. Stand to't.
+  BANQUO. It will be rain tonight.
+  FIRST MURTHERER. Let it come down.
+                                           They set upon Banquo.
+  BANQUO. O, treachery! Fly, good Fleance, fly, fly, fly!
+    Thou mayst revenge. O slave!          Dies. Fleance escapes.
+  THIRD MURTHERER. Who did strike out the light?
+  FIRST MURTHERER. Wast not the way?
+  THIRD MURTHERER. There's but one down; the son is fled.
+  SECOND MURTHERER. We have lost
+    Best half of our affair.
+  FIRST MURTHERER. Well, let's away and say how much is done.
+                                                         Exeunt.
+
+
+
+
+SCENE IV.
+A Hall in the palace. A banquet prepared.
+
+Enter Macbeth, Lady Macbeth, Ross, Lennox, Lords, and Attendants.
+
+  MACBETH. You know your own degrees; sit down. At first
+    And last the hearty welcome.
+  LORDS. Thanks to your Majesty.
+  MACBETH. Ourself will mingle with society
+    And play the humble host.
+    Our hostess keeps her state, but in best time
+    We will require her welcome.
+  LADY MACBETH. Pronounce it for me, sir, to all our friends,
+    For my heart speaks they are welcome.
+
+                Enter first Murtherer to the door.
+
+  MACBETH. See, they encounter thee with their hearts' thanks.
+    Both sides are even; here I'll sit i' the midst.
+    Be large in mirth; anon we'll drink a measure
+    The table round. [Approaches the door.] There's blood upon thy
+      face.
+  MURTHERER. 'Tis Banquo's then.
+  MACBETH. 'Tis better thee without than he within.
+    Is he dispatch'd?
+  MURTHERER. My lord, his throat is cut; that I did for him.
+  MACBETH. Thou art the best o' the cut-throats! Yet he's good
+    That did the like for Fleance. If thou didst it,
+    Thou art the nonpareil.
+  MURTHERER. Most royal sir,
+    Fleance is 'scaped.
+  MACBETH. [Aside.] Then comes my fit again. I had else been perfect,
+    Whole as the marble, founded as the rock,
+    As broad and general as the casing air;
+    But now I am cabin'd, cribb'd, confin'd, bound in
+    To saucy doubts and fears -But Banquo's safe?
+  MURTHERER. Ay, my good lord. Safe in a ditch he bides,
+    With twenty trenched gashes on his head,
+    The least a death to nature.
+  MACBETH. Thanks for that.
+    There the grown serpent lies; the worm that's fled
+    Hath nature that in time will venom breed,
+    No teeth for the present. Get thee gone. Tomorrow
+    We'll hear ourselves again.
+                                                 Exit Murtherer.
+  LADY MACBETH. My royal lord,
+    You do not give the cheer. The feast is sold
+    That is not often vouch'd, while 'tis amaking,
+    'Tis given with welcome. To feed were best at home;
+    From thence the sauce to meat is ceremony;
+    Meeting were bare without it.
+  MACBETH. Sweet remembrancer!
+    Now good digestion wait on appetite,
+    And health on both!
+  LENNOX. May't please your Highness sit.
+
+      The Ghost of Banquo enters and sits in Macbeth's place.
+
+  MACBETH. Here had we now our country's honor roof'd,
+    Were the graced person of our Banquo present,
+    Who may I rather challenge for unkindness
+    Than pity for mischance!
+  ROSS. His absence, sir,
+    Lays blame upon his promise. Please't your Highness
+    To grace us with your royal company?
+  MACBETH. The table's full.
+  LENNOX. Here is a place reserved, sir.
+  MACBETH. Where?
+  LENNOX. Here, my good lord. What is't that moves your Highness?
+  MACBETH. Which of you have done this?
+  LORDS. What, my good lord?
+  MACBETH. Thou canst not say I did it; never shake
+    Thy gory locks at me.
+  ROSS. Gentlemen, rise; his Highness is well.
+  LADY MACBETH. Sit, worthy friends; my lord is often thus,
+    And hath been from his youth. Pray you, keep seat.
+    The fit is momentary; upon a thought
+    He will again be well. If much you note him,
+    You shall offend him and extend his passion.
+    Feed, and regard him not-Are you a man?
+  MACBETH. Ay, and a bold one, that dare look on that
+    Which might appal the devil.
+  LADY MACBETH. O proper stuff!
+    This is the very painting of your fear;
+    This is the air-drawn dagger which you said
+    Led you to Duncan. O, these flaws and starts,
+    Impostors to true fear, would well become
+    A woman's story at a winter's fire,
+    Authorized by her grandam. Shame itself!
+    Why do you make such faces? When all's done,
+    You look but on a stool.
+  MACBETH. Prithee, see there! Behold! Look! Lo! How say you?
+    Why, what care I? If thou canst nod, speak too.
+    If charnel houses and our graves must send
+    Those that we bury back, our monuments
+    Shall be the maws of kites.                      Exit Ghost.
+  LADY MACBETH. What, quite unmann'd in folly?
+  MACBETH. If I stand here, I saw him.
+  LADY MACBETH. Fie, for shame!
+  MACBETH. Blood hath been shed ere now, i' the olden time,
+    Ere humane statute purged the gentle weal;
+    Ay, and since too, murthers have been perform'd
+    Too terrible for the ear. The time has been,
+    That, when the brains were out, the man would die,
+    And there an end; but now they rise again,
+    With twenty mortal murthers on their crowns,
+    And push us from our stools. This is more strange
+    Than such a murther is.
+  LADY MACBETH. My worthy lord,
+    Your noble friends do lack you.
+  MACBETH. I do forget.
+    Do not muse at me, my most worthy friends.
+    I have a strange infirmity, which is nothing
+    To those that know me. Come, love and health to all;
+    Then I'll sit down. Give me some wine, fill full.
+    I drink to the general joy o' the whole table,
+    And to our dear friend Banquo, whom we miss.
+    Would he were here! To all and him we thirst,
+    And all to all.
+  LORDS. Our duties and the pledge.
+
+                     Re-enter Ghost.
+
+  MACBETH. Avaunt, and quit my sight! Let the earth hide thee!
+    Thy bones are marrowless, thy blood is cold;
+    Thou hast no speculation in those eyes
+    Which thou dost glare with.
+  LADY MACBETH. Think of this, good peers,
+    But as a thing of custom. 'Tis no other,
+    Only it spoils the pleasure of the time.
+  MACBETH. What man dare, I dare.
+    Approach thou like the rugged Russian bear,
+    The arm'd rhinoceros, or the Hyrcan tiger;
+    Take any shape but that, and my firm nerves
+    Shall never tremble. Or be alive again,
+    And dare me to the desert with thy sword.
+    If trembling I inhabit then, protest me
+    The baby of a girl. Hence, horrible shadow!
+    Unreal mockery, hence!                           Exit Ghost.
+    Why, so, being gone,
+    I am a man again. Pray you sit still.
+  LADY MACBETH. You have displaced the mirth, broke the good meeting,
+    With most admired disorder.
+  MACBETH. Can such things be,
+    And overcome us like a summer's cloud,
+    Without our special wonder? You make me strange
+    Even to the disposition that I owe
+    When now I think you can behold such sights
+    And keep the natural ruby of your cheeks
+    When mine is blanch'd with fear.
+  ROSS. What sights, my lord?
+  LADY MACBETH. I pray you, speak not; he grows worse and worse;
+    Question enrages him. At once, good night.
+    Stand not upon the order of your going,
+    But go at once.
+  LENNOX. Good night, and better health
+    Attend his Majesty!
+  LADY MACBETH. A kind good night to all!
+                        Exeunt all but Macbeth and Lady Macbeth.
+  MACBETH. will have blood; they say blood will have blood.
+    Stones have been known to move and trees to speak;
+    Augures and understood relations have
+    By maggot pies and choughs and rooks brought forth

@@ -64899,3 +64899,198 @@ Enter the three Witches.
     Whoever knocks!
 
                       Enter Macbeth.
+
+  MACBETH. How now, you secret, black, and midnight hags?
+    What is't you do?
+  ALL. A deed without a name.
+  MACBETH. I conjure you, by that which you profess
+    (Howeer you come to know it) answer me:
+    Though you untie the winds and let them fight
+    Against the churches, though the yesty waves
+    Confound and swallow navigation up,
+    Though bladed corn be lodged and trees blown down,
+    Though castles topple on their warders' heads,
+    Though palaces and pyramids do slope
+    Their heads to their foundations, though the treasure
+    Of nature's germaines tumble all together
+    Even till destruction sicken, answer me
+    To what I ask you.
+  FIRST WITCH. Speak.
+  SECOND WITCH. Demand.
+  THIRD WITCH. We'll answer.
+  FIRST WITCH. Say, if thou'dst rather hear it from our mouths,
+    Or from our masters'?
+  MACBETH. Call 'em, let me see 'em.
+  FIRST WITCH. Pour in sow's blood that hath eaten
+    Her nine farrow; grease that's sweaten
+    From the murtherer's gibbet throw
+    Into the flame.
+  ALL. Come, high or low;
+    Thyself and office deftly show!
+
+            Thunder. First Apparition: an armed Head.
+
+  MACBETH. Tell me, thou unknown power-
+  FIRST WITCH. He knows thy thought:
+    Hear his speech, but say thou nought.
+  FIRST APPARITION. Macbeth! Macbeth! Macbeth! Beware Macduff,
+    Beware the Thane of Fife. Dismiss me. Enough.
+                                                       Descends.
+  MACBETH. Whate'er thou art, for thy good caution, thanks;
+    Thou hast harp'd my fear aright. But one word more-
+  FIRST WITCH. He will not be commanded. Here's another,
+    More potent than the first.
+
+          Thunder. Second Apparition: a bloody Child.
+
+  SECOND APPARITION. Macbeth! Macbeth! Macbeth!
+  MACBETH. Had I three ears, I'd hear thee.
+  SECOND APPARITION. Be bloody, bold, and resolute: laugh to scorn
+    The power of man, for none of woman born
+    Shall harm Macbeth.                                Descends.
+  MACBETH. Then live, Macduff. What need I fear of thee?
+    But yet I'll make assurance double sure,
+    And take a bond of fate: thou shalt not live,
+    That I may tell pale-hearted fear it lies,
+    And sleep in spite of thunder.
+
+       Thunder. Third Apparition: a Child crowned,
+               with a tree in his hand.
+
+    What is this,
+    That rises like the issue of a king,
+    And wears upon his baby brow the round
+    And top of sovereignty?
+  ALL. Listen, but speak not to't.
+  THIRD APPARITION. Be lion-mettled, proud, and take no care
+    Who chafes, who frets, or where conspirers are.
+    Macbeth shall never vanquish'd be until
+    Great Birnam Wood to high Dunsinane Hill
+    Shall come against him.                            Descends.
+  MACBETH. That will never be.
+    Who can impress the forest, bid the tree
+    Unfix his earth-bound root? Sweet bodements, good!
+    Rebellion's head, rise never till the Wood
+    Of Birnam rise, and our high-placed Macbeth
+    Shall live the lease of nature, pay his breath
+    To time and mortal custom. Yet my heart
+    Throbs to know one thing: tell me, if your art
+    Can tell so much, shall Banquo's issue ever
+    Reign in this kingdom?
+  ALL. Seek to know no more.
+  MACBETH. I will be satisfied! Deny me this,
+    And an eternal curse fall on you! Let me know.
+    Why sinks that cauldron, and what noise is this?
+                                                       Hautboys.
+  FIRST WITCH. Show!
+  SECOND WITCH. Show!
+  THIRD. WITCH. Show!
+  ALL. Show his eyes, and grieve his heart;
+    Come like shadows, so depart!
+
+    A show of eight Kings, the last with a glass in his hand;
+                   Banquo's Ghost following.
+
+  MACBETH. Thou are too like the spirit of Banquo Down!
+    Thy crown does sear mine eyeballs. And thy hair,
+    Thou other gold-bound brow, is like the first.
+    A third is like the former. Filthy hags!
+    Why do you show me this? A fourth! Start, eyes!
+    What, will the line stretch out to the crack of doom?
+    Another yet! A seventh! I'll see no more!
+    And yet the eighth appears, who bears a glass
+    Which shows me many more; and some I see
+    That twofold balls and treble sceptres carry.
+    Horrible sight! Now I see 'tis true;
+    For the blood-bolter'd Banquo smiles upon me,
+    And points at them for his. What, is this so?
+  FIRST WITCH. Ay, sir, all this is so. But why
+    Stands Macbeth thus amazedly?
+    Come,sisters, cheer we up his sprites,
+    And show the best of our delights.
+    I'll charm the air to give a sound,
+    While you perform your antic round,
+    That this great King may kindly say
+    Our duties did his welcome pay.
+                                    Music. The Witches dance and
+                                        then vanish with Hecate.
+  MACBETH. are they? Gone? Let this pernicious hour
+    Stand ay accursed in the calendar!
+    Come in, without there!
+
+                    Enter Lennox.
+
+  LENNOX. What's your Grace's will?
+  MACBETH. Saw you the weird sisters?
+  LENNOX. No, my lord.
+  MACBETH. Came they not by you?
+  LENNOX. No indeed, my lord.
+  MACBETH. Infected be the 'air whereon they ride,
+    And damn'd all those that trust them! I did hear
+    The galloping of horse. Who wast came by?
+  LENNOX. 'Tis two or three, my lord, that bring you word
+    Macduff is fled to England.
+  MACBETH. Fled to England?
+  LENNOX. Ay, my good lord.
+  MACBETH. [Aside.] Time, thou anticipatest my dread exploits.
+    The flighty purpose never is o'ertook
+    Unless the deed go with it. From this moment
+    The very firstlings of my heart shall be
+    The firstlings of my hand. And even now,
+    To crown my thoughts with acts, be it thought and done:
+    The castle of Macduff I will surprise,
+    Seize upon Fife, give to the edge o' the sword
+    His wife, his babes, and all unfortunate souls
+    That trace him in his line. No boasting like a fool;
+    This deed I'll do before this purpose cool.
+    But no more sights! -Where are these gentlemen?
+    Come, bring me where they are.                       Exeunt.
+
+
+
+
+SCENE II.
+Fife. Macduff's castle.
+
+Enter Lady Macduff, her Son, and Ross.
+
+  LADY MACDUFF. What had he done, to make him fly the land?
+  ROSS. You must have patience, madam.
+  LADY MACDUFF. He had none;
+    His flight was madness. When our actions do not,
+    Our fears do make us traitors.
+  ROSS. You know not
+    Whether it was his wisdom or his fear.
+  LADY MACDUFF. Wisdom? To leave his wife, to leave his babes,
+    His mansion, and his titles, in a place
+    From whence himself does fly? He loves us not;
+    He wants the natural touch; for the poor wren,
+    The most diminutive of birds, will fight,
+    Her young ones in her nest, against the owl.
+    All is the fear and nothing is the love;
+    As little is the wisdom, where the flight
+    So runs against all reason.
+  ROSS. My dearest coz,
+    I pray you, school yourself. But for your husband,
+    He is noble, wise, Judicious, and best knows
+    The fits o' the season. I dare not speak much further;
+    But cruel are the times when we are traitors
+    And do not know ourselves; when we hold rumor
+    From what we fear, yet know not what we fear,
+    But float upon a wild and violent sea
+    Each way and move. I take my leave of you;
+    Shall not be long but I'll be here again.
+    Things at the worst will cease or else climb upward
+    To what they were before. My pretty cousin,
+    Blessing upon you!
+  LADY MACDUFF. Father'd he is, and yet he's fatherless.
+  ROSS. I am so much a fool, should I stay longer,
+    It would be my disgrace and your discomfort.
+    I take my leave at once.                               Exit.
+  LADY MACDUFF. Sirrah, your father's dead.
+    And what will you do now? How will you live?
+  SON. As birds do, Mother.
+  LADY MACDUFF. What, with worms and flies?
+  SON. With what I get, I mean; and so do they.
+  LADY MACDUFF. Poor bird! Thou'ldst never fear the net nor lime,
+    The pitfall nor the gin.

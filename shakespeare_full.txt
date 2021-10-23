@@ -65668,3 +65668,211 @@ Enter Macbeth, Doctor, and Attendants.
     Till Birnam Forest come to Dunsinane.
   DOCTOR. [Aside.] Were I from Dunsinane away and clear,
     Profit again should hardly draw me here.             Exeunt.
+
+
+
+
+SCENE IV.
+Country near Birnam Wood. Drum and colors.
+
+Enter Malcolm, old Seward and his Son, Macduff, Menteith, Caithness,
+Angus, Lennox, Ross, and Soldiers, marching.
+
+  MALCOLM. Cousins, I hope the days are near at hand
+    That chambers will be safe.
+  MENTEITH. We doubt it nothing.
+  SIWARD. What wood is this before us?
+  MENTEITH. The Wood of Birnam.
+  MALCOLM. Let every soldier hew him down a bough,
+    And bear't before him; thereby shall we shadow
+    The numbers of our host, and make discovery
+    Err in report of us.
+  SOLDIERS. It shall be done.
+  SIWARD. We learn no other but the confident tyrant
+    Keeps still in Dunsinane and will endure
+    Our setting down before't.
+  MALCOLM. 'Tis his main hope;
+    For where there is advantage to be given,
+    Both more and less have given him the revolt,
+    And none serve with him but constrained things
+    Whose hearts are absent too.
+  MACDUFF. Let our just censures
+    Attend the true event, and put we on
+    Industrious soldiership.
+  SIWARD. The time approaches
+    That will with due decision make us know
+    What we shall say we have and what we owe.
+    Thoughts speculative their unsure hopes relate,
+    But certain issue strokes must arbitrate.
+    Towards which advance the war.
+                                                Exeunt Marching.
+
+
+
+
+SCENE V.
+Dunsinane. Within the castle.
+
+Enter Macbeth, Seyton, and Soldiers, with drum and colors.
+
+  MACBETH. Hang out our banners on the outward walls;
+    The cry is still, "They come!" Our castle's strength
+    Will laugh a siege to scorn. Here let them lie
+    Till famine and the ague eat them up.
+    Were they not forced with those that should be ours,
+    We might have met them dareful, beard to beard,
+    And beat them backward home.
+                                          A cry of women within.
+    What is that noise?
+  SEYTON. It is the cry of women, my good lord.            Exit.
+  MACBETH. I have almost forgot the taste of fears:
+    The time has been, my senses would have cool'd
+    To hear a night-shriek, and my fell of hair
+    Would at a dismal treatise rouse and stir
+    As life were in't. I have supp'd full with horrors;
+    Direness, familiar to my slaughterous thoughts,
+    Cannot once start me.
+
+                  Re-enter Seyton.
+     Wherefore was that cry?
+  SEYTON. The Queen, my lord, is dead.
+  MACBETH. She should have died hereafter;
+    There would have been a time for such a word.
+    Tomorrow, and tomorrow, and tomorrow
+    Creeps in this petty pace from day to day
+    To the last syllable of recorded time;
+    And all our yesterdays have lighted fools
+    The way to dusty death. Out, out, brief candle!
+    Life's but a walking shadow, a poor player
+    That struts and frets his hour upon the stage
+    And then is heard no more. It is a tale
+    Told by an idiot, full of sound and fury,
+    Signifying nothing.
+
+                 Enter a Messenger.
+
+    Thou comest to use thy tongue; thy story quickly.
+  MESSENGER. Gracious my lord,
+    I should report that which I say I saw,
+    But know not how to do it.
+  MACBETH. Well, say, sir.
+  MESSENGER. As I did stand my watch upon the hill,
+    I look'd toward Birnam, and anon, methought,
+    The Wood began to move.
+  MACBETH. Liar and slave!
+  MESSENGER. Let me endure your wrath, if't be not so.
+    Within this three mile may you see it coming;
+    I say, a moving grove.
+  MACBETH. If thou speak'st false,
+    Upon the next tree shalt thou hang alive,
+    Till famine cling thee; if thy speech be sooth,
+    I care not if thou dost for me as much.
+    I pull in resolution and begin
+    To doubt the equivocation of the fiend
+    That lies like truth. "Fear not, till Birnam Wood
+    Do come to Dunsinane," and now a wood
+    Comes toward Dunsinane. Arm, arm, and out!
+    If this which he avouches does appear,
+    There is nor flying hence nor tarrying here.
+    I 'gin to be aweary of the sun
+    And wish the estate o' the world were now undone.
+    Ring the alarum bell! Blow, wind! Come, wrack!
+    At least we'll die with harness on our back.         Exeunt.
+
+
+
+
+SCENE VI.
+Dunsinane.  Before the castle.
+
+Enter Malcolm, old Siward, Macduff, and their Army, with boughs.
+Drum and colors.
+
+  MALCOLM. Now near enough; your leavy screens throw down,
+    And show like those you are. You, worthy uncle,
+    Shall with my cousin, your right noble son,
+    Lead our first battle. Worthy Macduff and we
+    Shall take upon 's what else remains to do,
+    According to our order.
+  SIWARD. Fare you well.
+    Do we but find the tyrant's power tonight,
+    Let us be beaten if we cannot fight.
+  MACDUFF. Make all our trumpets speak, give them all breath,
+    Those clamorous harbingers of blood and death.
+                                                         Exeunt.
+
+
+
+
+SCENE VII.
+Dunsinane.  Before the castle.  Alarums.
+
+Enter Macbeth.
+
+  MACBETH. They have tied me to a stake; I cannot fly,
+    But bear-like I must fight the course. What's he
+    That was not born of woman? Such a one
+    Am I to fear, or none.
+
+                     Enter young Siward.
+
+  YOUNG SIWARD. What is thy name?
+  MACBETH. Thou'lt be afraid to hear it.
+  YOUNG SIWARD. No, though thou call'st thyself a hotter name
+    Than any is in hell.
+  MACBETH. My name's Macbeth.
+  YOUNG SIWARD. The devil himself could not pronounce a title
+    More hateful to mine ear.
+  MACBETH. No, nor more fearful.
+  YOUNG SIWARD O Thou liest, abhorred tyrant; with my sword
+    I'll prove the lie thou speak'st.
+                          They fight, and young Seward is slain.
+  MACBETH. Thou wast born of woman.
+    But swords I smile at, weapons laugh to scorn,
+    Brandish'd by man that's of a woman born.              Exit.
+
+                Alarums. Enter Macduff.
+
+  MACDUFF. That way the noise is. Tyrant, show thy face!
+    If thou best slain and with no stroke of mine,
+    My wife and children's ghosts will haunt me still.
+    I cannot strike at wretched kerns, whose arms
+    Are hired to bear their staves. Either thou, Macbeth,
+    Or else my sword, with an unbatter'd edge,
+    I sheathe again undeeded. There thou shouldst be;
+    By this great clatter, one of greatest note
+    Seems bruited. Let me find him, Fortune!
+    And more I beg not.                           Exit. Alarums.
+
+                Enter Malcolm and old Siward.
+
+  SIWARD. This way, my lord; the castle's gently render'd.
+    The tyrant's people on both sides do fight,
+    The noble Thanes do bravely in the war,
+    The day almost itself professes yours,
+    And little is to do.
+  MALCOLM. We have met with foes
+    That strike beside us.
+  SIWARD. Enter, sir, the castle.
+                                                 Exeunt. Alarum.
+
+
+
+
+SCENE VIII.
+Another part of the field.
+
+Enter Macbeth.
+
+  MACBETH. Why should I play the Roman fool and die
+    On mine own sword? Whiles I see lives, the gashes
+    Do better upon them.
+
+                      Enter Macduff.
+
+  MACDUFF. Turn, hell hound, turn!
+  MACBETH. Of all men else I have avoided thee.
+    But get thee back, my soul is too much charged
+    With blood of thine already.
+  MACDUFF. I have no words.
+    My voice is in my sword, thou bloodier villain

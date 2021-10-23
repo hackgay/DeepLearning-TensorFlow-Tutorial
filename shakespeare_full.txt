@@ -65472,3 +65472,199 @@ Enter a Doctor of Physic and a Waiting Gentlewoman.
     benefit of sleep and do the effects of watching! In this slumbery
     agitation, besides her walking and other actual performances,
     what, at any time, have you heard her say?
+  GENTLEWOMAN. That, sir, which I will not report after her.
+  DOCTOR. You may to me, and 'tis most meet you should.
+  GENTLEWOMAN. Neither to you nor anyone, having no witness to
+    confirm my speech.
+
+                Enter Lady Macbeth with a taper.
+
+    Lo you, here she comes! This is her very guise, and, upon my
+    life, fast asleep. Observe her; stand close.
+  DOCTOR. How came she by that light?
+  GENTLEWOMAN. Why, it stood by her. She has light by her
+     continually; 'tis her command.
+  DOCTOR. You see, her eyes are open.
+  GENTLEWOMAN. Ay, but their sense is shut.
+  DOCTOR. What is it she does now? Look how she rubs her hands.
+  GENTLEWOMAN. It is an accustomed action with her, to seem thus
+    washing her hands. I have known her continue in this a quarter of
+    an hour.
+  LADY MACBETH. Yet here's a spot.
+  DOCTOR. Hark, she speaks! I will set down what comes from her, to
+    satisfy my remembrance the more strongly.
+  LADY MACBETH. Out, damned spot! Out, I say! One- two -why then 'tis
+    time to do't. Hell is murky. Fie, my lord, fie! A soldier, and
+    afeard? What need we fear who knows it, when none can call our
+    power to account? Yet who would have thought the old man to have
+    had so much blood in him?
+  DOCTOR. Do you mark that?
+  LADY MACBETH. The Thane of Fife had a wife; where is she now? What,
+    will these hands neer be clean? No more o' that, my lord, no more
+    o' that. You mar all with this starting.
+  DOCTOR. Go to, go to; you have known what you should not.
+  GENTLEWOMAN. She has spoke what she should not, I am sure of that.
+    Heaven knows what she has known.
+  LADY MACBETH. Here's the smell of the blood still. All the perfumes
+    of Arabia will not sweeten this little hand. Oh, oh, oh!
+  DOCTOR. What a sigh is there! The heart is sorely charged.
+  GENTLEWOMAN. I would not have such a heart in my bosom for the
+    dignity of the whole body.
+  DOCTOR. Well, well, well-
+  GENTLEWOMAN. Pray God it be, sir.
+  DOCTOR. This disease is beyond my practice. Yet I have known those
+    which have walked in their sleep who have died holily in their
+    beds.
+  LADY MACBETH. Wash your hands, put on your nightgown, look not so
+    pale. I tell you yet again, Banquo's buried; he cannot come out
+    on's grave.
+  DOCTOR. Even so?
+  LADY MACBETH. To bed, to bed; there's knocking at the gate. Come,
+    come, come, come, give me your hand.What's done cannot be undone.
+    To bed, to bed, to bed.
+Exit.
+  DOCTOR. Will she go now to bed?
+  GENTLEWOMAN. Directly.
+  DOCTOR. Foul whisperings are abroad. Unnatural deeds
+    Do breed unnatural troubles; infected minds
+    To their deaf pillows will discharge their secrets.
+    More needs she the divine than the physician.
+    God, God, forgive us all! Look after her;
+    Remove from her the means of all annoyance,
+    And still keep eyes upon her. So good night.
+    My mind she has mated and amazed my sight.
+    I think, but dare not speak.
+  GENTLEWOMAN. Good night, good doctor.
+                                                         Exeunt.
+
+
+
+
+SCENE II.
+The country near Dunsinane. Drum and colors.
+
+Enter Menteith, Caithness, Angus, Lennox, and Soldiers.
+
+  MENTEITH. The English power is near, led on by Malcolm,
+    His uncle Siward, and the good Macduff.
+    Revenges burn in them, for their dear causes
+    Would to the bleeding and the grim alarm
+    Excite the mortified man.
+  ANGUS. Near Birnam Wood
+    Shall we well meet them; that way are they coming.
+  CAITHNESS. Who knows if Donalbain be with his brother?
+  LENNOX. For certain, sir, he is not; I have a file
+    Of all the gentry. There is Seward's son
+    And many unrough youths that even now
+    Protest their first of manhood.
+  MENTEITH. What does the tyrant?
+  CAITHNESS. Great Dunsinane he strongly fortifies.
+    Some say he's mad; others, that lesser hate him,
+    Do call it valiant fury; but, for certain,
+    He cannot buckle his distemper'd cause
+    Within the belt of rule.
+  ANGUS. Now does he feel
+    His secret murthers sticking on his hands,
+    Now minutely revolts upbraid his faith-breach;
+    Those he commands move only in command,
+    Nothing in love. Now does he feel his title
+    Hang loose about him, like a giant's robe
+    Upon a dwarfish thief.
+  MENTEITH. Who then shall blame
+    His pester'd senses to recoil and start,
+    When all that is within him does condemn
+    Itself for being there?
+  CAITHNESS. Well, march we on
+    To give obedience where 'tis truly owed.
+    Meet we the medicine of the sickly weal,
+    And with him pour we, in our country's purge,
+    Each drop of us.
+  LENNOX. Or so much as it needs
+    To dew the sovereign flower and drown the weeds.
+    Make we our march towards Birnam.           Exeunt marching.
+
+
+
+
+SCENE III.
+Dunsinane. A room in the castle.
+
+Enter Macbeth, Doctor, and Attendants.
+
+  MACBETH. Bring me no more reports; let them fly all!
+    Till Birnam Wood remove to Dunsinane
+    I cannot taint with fear. What's the boy Malcolm?
+    Was he not born of woman? The spirits that know
+    All mortal consequences have pronounced me thus:
+    "Fear not, Macbeth; no man that's born of woman
+    Shall e'er have power upon thee." Then fly, false Thanes,
+    And mingle with the English epicures!
+    The mind I sway by and the heart I bear
+    Shall never sag with doubt nor shake with fear.
+
+                       Enter a Servant.
+
+    The devil damn thee black, thou cream-faced loon!
+    Where got'st thou that goose look?
+  SERVANT. There is ten thousand-
+  MACBETH. Geese, villain?
+  SERVANT. Soldiers, sir.
+  MACBETH. Go prick thy face and over-red thy fear,
+    Thou lily-liver'd boy. What soldiers, patch?
+    Death of thy soul! Those linen cheeks of thine
+    Are counselors to fear. What soldiers, whey-face?
+  SERVANT. The English force, so please you.
+  MACBETH. Take thy face hence.                    Exit Servant.
+    Seyton-I am sick at heart,
+    When I behold- Seyton, I say!- This push
+    Will cheer me ever or disseat me now.
+    I have lived long enough. My way of life
+    Is fall'n into the sear, the yellow leaf,
+    And that which should accompany old age,
+    As honor, love, obedience, troops of friends,
+    I must not look to have; but in their stead,
+    Curses, not loud but deep, mouth-honor, breath,
+    Which the poor heart would fain deny and dare not.
+    Seyton!
+
+                       Enter Seyton.
+
+  SEYTON. What's your gracious pleasure?
+  MACBETH. What news more?
+  SEYTON. All is confirm'd, my lord, which was reported.
+  MACBETH. I'll fight, 'til from my bones my flesh be hack'd.
+    Give me my armor.
+  SEYTON. 'Tis not needed yet.
+  MACBETH. I'll put it on.
+    Send out more horses, skirr the country round,
+    Hang those that talk of fear. Give me mine armor.
+    How does your patient, doctor?
+  DOCTOR. Not so sick, my lord,
+    As she is troubled with thick-coming fancies,
+    That keep her from her rest.
+  MACBETH. Cure her of that.
+    Canst thou not minister to a mind diseased,
+    Pluck from the memory a rooted sorrow,
+    Raze out the written troubles of the brain,
+    And with some sweet oblivious antidote
+    Cleanse the stuff'd bosom of that perilous stuff
+    Which weighs upon the heart?
+  DOCTOR. Therein the patient
+    Must minister to himself.
+  MACBETH. Throw physic to the dogs, I'll none of it.
+    Come, put mine armor on; give me my staff.
+    Seyton, send out. Doctor, the Thanes fly from me.
+    Come, sir, dispatch. If thou couldst, doctor, cast
+    The water of my land, find her disease
+    And purge it to a sound and pristine health,
+    I would applaud thee to the very echo,
+    That should applaud again. Pull't off, I say.
+    What rhubarb, cyme, or what purgative drug
+    Would scour these English hence? Hearst thou of them?
+  DOCTOR. Ay, my good lord, your royal preparation
+    Makes us hear something.
+  MACBETH. Bring it after me.
+    I will not be afraid of death and bane
+    Till Birnam Forest come to Dunsinane.
+  DOCTOR. [Aside.] Were I from Dunsinane away and clear,
+    Profit again should hardly draw me here.             Exeunt.

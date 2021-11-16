@@ -70466,3 +70466,184 @@ Enter SOLANIO and SALERIO
   SALERIO. I would it might prove the end of his losses.
   SOLANIO. Let me say amen betimes, lest the devil cross my prayer,
     for here he comes in the likeness of a Jew.
+
+                             Enter SHYLOCK
+
+    How now, Shylock? What news among the merchants?
+  SHYLOCK. You knew, none so well, none so well as you, of my
+    daughter's flight.
+  SALERIO. That's certain; I, for my part, knew the tailor that made
+    the wings she flew withal.
+  SOLANIO. And Shylock, for his own part, knew the bird was flidge;
+    and then it is the complexion of them all to leave the dam.
+  SHYLOCK. She is damn'd for it.
+  SALERIO. That's certain, if the devil may be her judge.
+  SHYLOCK. My own flesh and blood to rebel!
+  SOLANIO. Out upon it, old carrion! Rebels it at these years?
+  SHYLOCK. I say my daughter is my flesh and my blood.
+  SALERIO. There is more difference between thy flesh and hers than
+    between jet and ivory; more between your bloods than there is
+    between red wine and Rhenish. But tell us, do you hear whether
+    Antonio have had any loss at sea or no?
+  SHYLOCK. There I have another bad match: a bankrupt, a prodigal,
+    who dare scarce show his head on the Rialto; a beggar, that was
+    us'd to come so smug upon the mart. Let him look to his bond. He
+    was wont to call me usurer; let him look to his bond. He was wont
+    to lend money for a Christian courtesy; let him look to his bond.
+  SALERIO. Why, I am sure, if he forfeit, thou wilt not take his
+    flesh. What's that good for?
+  SHYLOCK. To bait fish withal. If it will feed nothing else, it will
+    feed my revenge. He hath disgrac'd me and hind'red me half a
+    million; laugh'd at my losses, mock'd at my gains, scorned my
+    nation, thwarted my bargains, cooled my friends, heated mine
+    enemies. And what's his reason? I am a Jew. Hath not a Jew eyes?
+    Hath not a Jew hands, organs, dimensions, senses, affections,
+    passions, fed with the same food, hurt with the same weapons,
+    subject to the same diseases, healed by the same means, warmed
+    and cooled by the same winter and summer, as a Christian is? If
+    you prick us, do we not bleed? If you tickle us, do we not laugh?
+    If you poison us, do we not die? And if you wrong us, shall we
+    not revenge? If we are like you in the rest, we will resemble you
+    in that. If a Jew wrong a Christian, what is his humility?
+    Revenge. If a Christian wrong a Jew, what should his sufferance
+    be by Christian example? Why, revenge. The villainy you teach me
+    I will execute; and itshall go hard but I will better the
+    instruction.
+
+                    Enter a MAN from ANTONIO
+
+  MAN. Gentlemen, my master Antonio is at his house, and desires to
+    speak with you both.
+  SALERIO. We have been up and down to seek him.
+
+                          Enter TUBAL
+
+  SOLANIO. Here comes another of the tribe; a third cannot be
+    match'd, unless the devil himself turn Jew.
+                                Exeunt SOLANIO, SALERIO, and MAN
+  SHYLOCK. How now, Tubal, what news from Genoa? Hast thou found my
+    daughter?
+  TUBAL. I often came where I did hear of her, but cannot find her.
+  SHYLOCK. Why there, there, there, there! A diamond gone, cost me
+    two thousand ducats in Frankfort! The curse never fell upon our
+    nation till now; I never felt it till now. Two thousand ducats in
+    that, and other precious, precious jewels. I would my daughter
+    were dead at my foot, and the jewels in her ear; would she were
+    hears'd at my foot, and the ducats in her coffin! No news of
+    them? Why, so- and I know not what's spent in the search. Why,
+    thou- loss upon loss! The thief gone with so much, and so much to
+    find the thief; and no satisfaction, no revenge; nor no ill luck
+    stirring but what lights o' my shoulders; no sighs but o' my
+    breathing; no tears but o' my shedding!
+  TUBAL. Yes, other men have ill luck too: Antonio, as I heard in
+    Genoa-
+  SHYLOCK. What, what, what? Ill luck, ill luck?
+  TUBAL. Hath an argosy cast away coming from Tripolis.
+  SHYLOCK. I thank God, I thank God. Is it true, is it true?
+  TUBAL. I spoke with some of the sailors that escaped the wreck.
+  SHYLOCK. I thank thee, good Tubal. Good news, good news- ha, ha!-
+    heard in Genoa.
+  TUBAL. Your daughter spent in Genoa, as I heard, one night,
+    fourscore ducats.
+  SHYLOCK. Thou stick'st a dagger in me- I shall never see my gold
+    again. Fourscore ducats at a sitting! Fourscore ducats!
+  TUBAL. There came divers of Antonio's creditors in my company to
+    Venice that swear he cannot choose but break.
+  SHYLOCK. I am very glad of it; I'll plague him, I'll torture him; I
+    am glad of it.
+  TUBAL. One of them showed me a ring that he had of your daughter
+    for a monkey.
+  SHYLOCK. Out upon her! Thou torturest me, Tubal. It was my
+    turquoise; I had it of Leah when I was a bachelor; I would not
+    have given it for a wilderness of monkeys.
+  TUBAL. But Antonio is certainly undone.
+  SHYLOCK. Nay, that's true; that's very true. Go, Tubal, fee me an
+    officer; bespeak him a fortnight before. I will have the heart of
+    him, if he forfeit; for, were he out of Venice, I can make what
+    merchandise I will. Go, Tubal, and meet me at our synagogue; go,
+    good Tubal; at our synagogue, Tubal.                  Exeunt
+
+
+
+
+SCENE II.
+Belmont. PORTIA'S house
+
+Enter BASSANIO, PORTIA, GRATIANO, NERISSA, and all their trains
+
+  PORTIA. I pray you tarry; pause a day or two
+    Before you hazard; for, in choosing wrong,
+    I lose your company; therefore forbear a while.
+    There's something tells me- but it is not love-
+    I would not lose you; and you know yourself
+    Hate counsels not in such a quality.
+    But lest you should not understand me well-
+    And yet a maiden hath no tongue but thought-
+    I would detain you here some month or two
+    Before you venture for me. I could teach you
+    How to choose right, but then I am forsworn;
+    So will I never be; so may you miss me;
+    But if you do, you'll make me wish a sin,
+    That I had been forsworn. Beshrew your eyes!
+    They have o'erlook'd me and divided me;
+    One half of me is yours, the other half yours-
+    Mine own, I would say; but if mine, then yours,
+    And so all yours. O! these naughty times
+    Puts bars between the owners and their rights;
+    And so, though yours, not yours. Prove it so,
+    Let fortune go to hell for it, not I.
+    I speak too long, but 'tis to peize the time,
+    To eke it, and to draw it out in length,
+    To stay you from election.
+  BASSANIO. Let me choose;
+    For as I am, I live upon the rack.
+  PORTIA. Upon the rack, Bassanio? Then confess
+    What treason there is mingled with your love.
+  BASSANIO. None but that ugly treason of mistrust
+    Which makes me fear th' enjoying of my love;
+    There may as well be amity and life
+    'Tween snow and fire as treason and my love.
+  PORTIA. Ay, but I fear you speak upon the rack,
+    Where men enforced do speak anything.
+  BASSANIO. Promise me life, and I'll confess the truth.
+  PORTIA. Well then, confess and live.
+  BASSANIO. 'Confess' and 'love'
+    Had been the very sum of my confession.
+    O happy torment, when my torturer
+    Doth teach me answers for deliverance!
+    But let me to my fortune and the caskets.
+  PORTIA. Away, then; I am lock'd in one of them.
+    If you do love me, you will find me out.
+    Nerissa and the rest, stand all aloof;
+    Let music sound while he doth make his choice;
+    Then, if he lose, he makes a swan-like end,
+    Fading in music. That the comparison
+    May stand more proper, my eye shall be the stream
+    And wat'ry death-bed for him. He may win;
+    And what is music then? Then music is
+    Even as the flourish when true subjects bow
+    To a new-crowned monarch; such it is
+    As are those dulcet sounds in break of day
+    That creep into the dreaming bridegroom's ear
+    And summon him to marriage. Now he goes,
+    With no less presence, but with much more love,
+    Than young Alcides when he did redeem
+    The virgin tribute paid by howling Troy
+    To the sea-monster. I stand for sacrifice;
+    The rest aloof are the Dardanian wives,
+    With bleared visages come forth to view
+    The issue of th' exploit. Go, Hercules!
+    Live thou, I live. With much much more dismay
+    I view the fight than thou that mak'st the fray.
+
+                            A SONG
+
+      the whilst BASSANIO comments on the caskets to himself
+
+                 Tell me where is fancy bred,
+                 Or in the heart or in the head,
+                 How begot, how nourished?
+                   Reply, reply.
+                 It is engend'red in the eyes,
+                 With gazing fed; and fancy dies
+                 In the cradle where it lies.

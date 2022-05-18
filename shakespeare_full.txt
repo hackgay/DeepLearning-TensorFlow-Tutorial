@@ -81827,3 +81827,181 @@ Enter Othello, Desdemona, Cassio, and Attendants.
     Thy honesty and love doth mince this matter,
     Making it light to Cassio. Cassio, I love thee,
     But never more be officer of mine.
+
+                    Re-enter Desdemona, attended.
+
+    Look, if my gentle love be not raised up!
+    I'll make thee an example.
+  DESDEMONA.                   What's the matter?
+  OTHELLO. All's well now, sweeting; come away to bed.
+    Sir, for your hurts, myself will be your surgeon.
+    Lead him off.                             Exit Montano, attended.
+    Iago, look with care about the town,
+    And silence those whom this vile brawl distracted.
+    Come, Desdemona, 'tis the soldiers' life.
+    To have their balmy slumbers waked with strife.
+                                      Exeunt all but Iago and Cassio.
+  IAGO. What, are you hurt, lieutenant?
+  CASSIO. Ay, past all surgery.
+  IAGO. Marry, heaven forbid!
+  CASSIO. Reputation, reputation, reputation! O, I have lost my
+    reputation! I have lost the immortal part of myself, and what
+    remains is bestial. My reputation, Iago, my reputation!
+  IAGO. As I am an honest man, I thought you had received some bodily
+    wound; there is more sense in that than in reputation. Reputation
+    is an idle and most false imposition; oft got without merit and
+    lost without deserving. You have lost no reputation at all,
+    unless you repute yourself such a loser. What, man! there are
+    ways to recover the general again. You are but now cast in his
+    mood, a punishment more in policy than in malice; even so as one
+    would beat his offenseless dog to affright an imperious lion. Sue
+    to him again, and he's yours.
+  CASSIO. I will rather sue to be despised than to deceive so good a
+    commander with so slight, so drunken, and so indiscreet an
+    officer. Drunk? and speak parrot? and squabble? swagger? swear?
+    and discourse fustian with one's own shadow? O thou invisible
+    spirit of wine, if thou hast no name to be known by, let us call
+    thee devil!
+  IAGO. What was he that you followed with your sword?
+    What had he done to you?
+  CASSIO. I know not.
+  IAGO. Is't possible?
+  CASSIO. I remember a mass of things, but nothing distinctly; a
+    quarrel, but nothing wherefore. O God, that men should put an
+    enemy in their mouths to steal away their brains! that we should,
+    with joy, pleasance, revel, and applause, transform ourselves
+    into beasts!
+  IAGO. Why, but you are now well enough. How came you thus
+     recovered?
+  CASSIO. It hath pleased the devil drunkenness to give place to the
+    devil wrath: one unperfectness shows me another, to make me
+    frankly despise myself.
+  IAGO. Come, you are too severe a moraler. As the time, the place,
+    and the condition of this country stands, I could heartily wish
+    this had not befallen; but since it is as it is, mend it for your
+    own good.
+  CASSIO. I will ask him for my place again; he shall tell me I am a
+    drunkard! Had I as many mouths as Hydra, such an answer would
+    stop them all. To be now a sensible man, by and by a fool, and
+    presently a beast! O strange! Every inordinate cup is unblest,
+    and the ingredient is a devil.
+  IAGO. Come, come, good wine is a good familiar creature, if it be
+    well used. Exclaim no more against it. And, good lieutenant, I
+    think you think I love you.
+  CASSIO. I have well approved it, sir. I drunk!
+  IAGO. You or any man living may be drunk at some time, man. I'll
+    tell you what you shall do. Our general's wife is now the
+    general. I may say so in this respect, for that he hath devoted
+    and given up himself to the contemplation, mark, and denotement
+    of her parts and graces. Confess yourself freely to her;
+    importune her help to put you in your place again. She is of so
+    free, so kind, so apt, so blessed a disposition, she holds it a
+    vice in her goodness not to do more than she is requested. This
+    broken joint between you and her husband entreat her to splinter;
+    and, my fortunes against any lay worth naming, this crack of your
+    love shall grow stronger than it was before.
+  CASSIO. You advise me well.
+  IAGO. I protest, in the sincerity of love and honest kindness.
+  CASSIO. I think it freely; and betimes in the morning I will beseech
+    the virtuous Desdemona to undertake for me. I am desperate of my
+    fortunes if they check me here.
+  IAGO. You are in the right. Good night, lieutenant, I must to the
+    watch.
+  CASSIO. Good night, honest Iago.                              Exit.
+  IAGO. And what's he then that says I play the villain?
+    When this advice is free I give and honest,
+    Probal to thinking, and indeed the course
+    To win the Moor again? For 'tis most easy
+    The inclining Desdemona to subdue
+    In any honest suit. She's framed as fruitful
+    As the free elements. And then for her
+    To win the Moor, were't to renounce his baptism,
+    All seals and symbols of redeemed sin,
+    His soul is so enfetter'd to her love,
+    That she may make, unmake, do what she list,
+    Even as her appetite shall play the god
+    With his weak function. How am I then a villain
+    To counsel Cassio to this parallel course,
+    Directly to his good? Divinity of hell!
+    When devils will the blackest sins put on,
+    They do suggest at first with heavenly shows,
+    As I do now. For whiles this honest fool
+    Plies Desdemona to repair his fortune,
+    And she for him pleads strongly to the Moor,
+    I'll pour this pestilence into his ear,
+    That she repeals him for her body's lust;
+    And by how much she strives to do him good,
+    She shall undo her credit with the Moor.
+    So will I turn her virtue into pitch,
+    And out of her own goodness make the net
+    That shall enmesh them all.
+
+                           Enter Roderigo.
+
+                                How now, Roderigo!
+  RODERIGO. I do follow here in the chase, not like a hound that
+    hunts, but one that fills up the cry. My money is almost spent; I
+    have been tonight exceedingly well cudgeled; and I think the
+    issue will be, I shall have so much experience for my pains; and
+    so, with no money at all and a little more wit, return again to
+    Venice.
+  IAGO. How poor are they that have not patience!
+    What wound did ever heal but by degrees?
+    Thou know'st we work by wit and not by witchcraft,
+    And wit depends on dilatory time.
+    Does't not go well? Cassio hath beaten thee,
+    And thou by that small hurt hast cashier'd Cassio.
+    Though other things grow fair against the sun,
+    Yet fruits that blossom first will first be ripe.
+    Content thyself awhile. By the mass, 'tis morning;
+    Pleasure and action make the hours seem short.
+    Retire thee; go where thou art billeted.
+    Away, I say. Thou shalt know more hereafter.
+    Nay, get thee gone. [Exit Roderigo.] Two things are to be done:
+    My wife must move for Cassio to her mistress-
+    I'll set her on;
+    Myself the while to draw the Moor apart,
+    And bring him jump when he may Cassio find
+    Soliciting his wife. Ay, that's the way;
+    Dull not device by coldness and delay.                      Exit.
+
+
+
+
+
+
+
+
+
+ACT III. SCENE I.
+Before the castle.
+
+Enter Cassio and some Musicians.
+
+  CASSIO. Masters, play here, I will content your pains; Something
+    that's brief; and bid "Good morrow, general."
+    Music.
+
+                             Enter Clown.
+
+  CLOWN. Why, masters, have your instruments been in Naples, that
+    they speak i' the nose thus?
+  FIRST MUSICIAN. How, sir, how?
+  CLOWN. Are these, I pray you, wind instruments?
+  FIRST MUSICIAN. Ay, marry, are they, sir.
+  CLOWN. O, thereby hangs a tail.
+  FIRST MUSICIAN. Whereby hangs a tale, sir?
+  CLOWN. Marry, sir, by many a wind instrument that I know. But,
+    masters, here's money for you; and the general so likes your
+    music, that he desires you, for love's sake, to make no more
+    noise with it.
+  FIRST MUSICIAN. Well, sir, we will not.
+  CLOWN. If you have any music that may not be heard, to't again;
+    but, as they say, to hear music the general does not greatly
+    care.
+  FIRST MUSICIAN. We have none such, sir.
+  CLOWN. Then put up your pipes in your bag, for I'll away.
+    Go, vanish into air, away!                      Exeunt Musicians.
+  CASSIO. Dost thou hear, my honest friend?
+  CLOWN. No, I hear not your honest friend; I hear you.
+  CASSIO. Prithee, keep up thy quillets. There's a poor piece of gold

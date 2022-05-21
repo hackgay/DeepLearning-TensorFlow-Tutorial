@@ -82572,3 +82572,183 @@ Enter Desdemona, Cassio, and Emilia.
     Spotted with strawberries in your wife's hand?
   OTHELLO. I gave her such a one; 'twas my first gift.
   IAGO. I know not that; but such a handkerchief-
+    I am sure it was your wife's- did I today
+    See Cassio wipe his beard with.
+  OTHELLO.                          If it be that-
+  IAGO. If it be that, or any that was hers,
+    It speaks against her with the other proofs.
+  OTHELLO. O, that the slave had forty thousand lives!
+    One is too poor, too weak for my revenge.
+    Now do I see 'tis true. Look here, Iago,
+    All my fond love thus do I blow to heaven.
+    'Tis gone.
+    Arise, black vengeance, from thy hollow hell!
+    Yield up, O love, thy crown and hearted throne
+    To tyrannous hate! Swell, bosom, with thy fraught,
+    For 'tis of aspics' tongues!
+  IAGO.                          Yet be content.
+  OTHELLO. O, blood, blood, blood!
+  IAGO. Patience, I say; your mind perhaps may change.
+  OTHELLO. Never, Iago. Like to the Pontic Sea,
+    Whose icy current and compulsive course
+    Ne'er feels retiring ebb, but keeps due on
+    To the Propontic and the Hellespont,
+    Even so my bloody thoughts, with violent pace,
+    Shall ne'er look back, ne'er ebb to humble love,
+    Till that a capable and wide revenge
+    Swallow them up. Now, by yond marble heaven,
+    In the due reverence of a sacred vow                      Kneels.
+    I here engage my words.
+  IAGO.                     Do not rise yet.                  Kneels.
+    Witness, you ever-burning lights above,
+    You elements that clip us round about,
+    Witness that here Iago doth give up
+    The execution of his wit, hands, heart,
+    To wrong'd Othello's service! Let him command,
+    And to obey shall be in me remorse,
+    What bloody business ever.                             They rise.
+  OTHELLO.                     I greet thy love,
+    Not with vain thanks, but with acceptance bounteous,
+    And will upon the instant put thee to't:
+    Within these three days let me hear thee say
+    That Cassio's not alive.
+  IAGO. My friend is dead, 'tis done at your request;
+    But let her live.
+  OTHELLO.            Damn her, lewd minx! O, damn her!
+    Come, go with me apart; I will withdraw,
+    To furnish me with some swift means of death
+    For the fair devil. Now art thou my lieutenant.
+  IAGO. I am your own forever.                                Exeunt.
+
+
+
+
+SCENE IV.
+Before the castle.
+
+Enter Desdemona, Emilia, and Clown.
+
+  DESDEMONA. Do you know, sirrah, where Lieutenant Cassio lies?
+  CLOWN. I dare not say he lies anywhere.
+  DESDEMONA. Why, man?
+  CLOWN. He's a soldier; and for one to say a soldier lies, is
+    stabbing.
+  DESDEMONA. Go to! Where lodges he?
+  CLOWN. To tell you where he lodges, is to tell you where I lie.
+  DESDEMONA. Can anything be made of this?
+  CLOWN. I know not where he lodges, and for me to devise a lodging,
+    and say he lies here or he lies there, were to lie in mine own
+    throat.
+  DESDEMONA. Can you inquire him out and be edified by report?
+  CLOWN. I will catechize the world for him; that is, make questions
+    and by them answer.
+  DESDEMONA. Seek him, bid him come hither. Tell him I have moved my
+    lord on his behalf and hope all will be well.
+  CLOWN. To do this is within the compass of man's wit, and therefore
+    I will attempt the doing it.                                Exit.
+  DESDEMONA. Where should I lose that handkerchief, Emilia?
+  EMILIA. I know not, madam.
+  DESDEMONA. Believe me, I had rather have lost my purse
+    Full of crusadoes; and, but my noble Moor
+    Is true of mind and made of no such baseness
+    As jealous creatures are, it were enough
+    To put him to ill thinking.
+  EMILIA.                       Is he not jealous?
+  DESDEMONA. Who, he? I think the sun where he was born
+    Drew all such humors from him.
+  EMILIA.                          Look, where he comes.
+  DESDEMONA. I will not leave him now till Cassio
+    Be call'd to him.
+
+                            Enter Othello.
+
+                      How is't with you, my lord?
+  OTHELLO. Well, my good lady. [Aside.] O, hardness to dissemble!
+    How do you, Desdemona?
+  DESDEMONA.               Well, my good lord.
+  OTHELLO. Give me your hand. This hand is moist, my lady.
+  DESDEMONA. It yet has felt no age nor known no sorrow.
+  OTHELLO. This argues fruitfulness and liberal heart;
+    Hot, hot, and moist. This hand of yours requires
+    A sequester from liberty, fasting, and prayer,
+    Much castigation, exercise devout,
+    For here's a young and sweating devil here
+    That commonly rebels. 'Tis a good hand,
+    A frank one.
+  DESDEMONA. You may, indeed, say so;
+    For 'twas that hand that gave away my heart.
+  OTHELLO. A liberal hand. The hearts of old gave hands;
+    But our new heraldry is hands, not hearts.
+  DESDEMONA. I cannot speak of this. Come now, your promise.
+  OTHELLO. What promise, chuck?
+  DESDEMONA. I have sent to bid Cassio come speak with you.
+  OTHELLO. I have a salt and sorry rheum offends me;
+    Lend me thy handkerchief.
+  DESDEMONA. Here, my lord.
+  OTHELLO. That which I gave you.
+  DESDEMONA. I have it not about me.
+  OTHELLO. Not?
+  DESDEMONA. No, faith, my lord.
+  OTHELLO. That's a fault. That handkerchief
+    Did an Egyptian to my mother give;
+    She was a charmer, and could almost read
+    The thoughts of people. She told her, while she kept it,
+    'Twould make her amiable and subdue my father
+    Entirely to her love, but if she lost it
+    Or made a gift of it, my father's eye
+    Should hold her loathed and his spirits should hunt
+    After new fancies. She dying gave it me,
+    And bid me, when my fate would have me wive,
+    To give it her. I did so, and take heed on't;
+    Make it a darling like your precious eye;
+    To lose't or give't away were such perdition
+    As nothing else could match.
+  DESDEMONA.                     Is't possible?
+  OTHELLO. 'Tis true; there's magic in the web of it.
+    A sibyl, that had number'd in the world
+    The sun to course two hundred compasses,
+    In her prophetic fury sew'd the work;
+    The worms were hallow'd that did breed the silk,
+    And it was dyed in mummy which the skillful
+    Conserved of maiden's hearts.
+  DESDEMONA.                      Indeed! is't true?
+  OTHELLO. Most veritable; therefore look to't well.
+  DESDEMONA. Then would to God that I had never seen't!
+  OTHELLO. Ha! wherefore?
+  DESDEMONA. Why do you speak so startingly and rash?
+  OTHELLO. Is't lost? is't gone? speak, is it out o' the way?
+  DESDEMONA. Heaven bless us!
+  OTHELLO. Say you?
+  DESDEMONA. It is not lost; but what an if it were?
+  OTHELLO. How?
+  DESDEMONA. I say, it is not lost.
+  OTHELLO. Fetch't, let me see it.
+  DESDEMONA. Why, so I can, sir, but I will not now.
+    This is a trick to put me from my suit.
+    Pray you, let Cassio be received again.
+  OTHELLO. Fetch me the handkerchief, my mind misgives.
+  DESDEMONA. Come, come,
+    You'll never meet a more sufficient man.
+  OTHELLO. The handkerchief!
+  DESDEMONA.                 I pray, talk me of Cassio.
+  OTHELLO. The handkerchief!
+  DESDEMONA.                 A man that all his time
+    Hath founded his good fortunes on your love,
+    Shared dangers with you-
+  OTHELLO. The handkerchief!
+  DESDEMONA. In sooth, you are to blame.
+  OTHELLO. Away!                                                Exit.
+  EMILIA. Is not this man jealous?
+  DESDEMONA. I ne'er saw this before.
+    Sure there's some wonder in this handkerchief;
+    I am most unhappy in the loss of it.
+  EMILIA. 'Tis not a year or two shows us a man.
+    They are all but stomachs and we all but food;
+    They eat us hungerly, and when they are full
+    They belch us. Look you! Cassio and my husband.
+
+                        Enter Cassio and Iago.
+
+  IAGO. There is no other way; 'tis she must do't.
+    And, lo, the happiness! Go and importune her.
+  DESDEMONA. How now, good Cassio! What's the news with you?

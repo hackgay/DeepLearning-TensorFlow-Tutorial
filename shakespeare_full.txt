@@ -89531,3 +89531,179 @@ Before LORD HASTING'S house
 Enter a MESSENGER to the door of HASTINGS
 
   MESSENGER. My lord, my lord!                        [Knocking]
+  HASTINGS.  [Within]  Who knocks?
+  MESSENGER. One from the Lord Stanley.
+  HASTINGS.  [Within]  What is't o'clock?
+  MESSENGER. Upon the stroke of four.
+
+                        Enter LORD HASTINGS
+
+  HASTINGS. Cannot my Lord Stanley sleep these tedious
+    nights?
+  MESSENGER. So it appears by that I have to say.
+    First, he commends him to your noble self.
+  HASTINGS. What then?
+  MESSENGER. Then certifies your lordship that this night
+    He dreamt the boar had razed off his helm.
+    Besides, he says there are two councils kept,
+    And that may be determin'd at the one
+    Which may make you and him to rue at th' other.
+    Therefore he sends to know your lordship's pleasure-
+    If you will presently take horse with him
+    And with all speed post with him toward the north
+    To shun the danger that his soul divines.
+  HASTINGS. Go, fellow, go, return unto thy lord;
+    Bid him not fear the separated council:
+    His honour and myself are at the one,
+    And at the other is my good friend Catesby;
+    Where nothing can proceed that toucheth us
+    Whereof I shall not have intelligence.
+    Tell him his fears are shallow, without instance;
+    And for his dreams, I wonder he's so simple
+    To trust the mock'ry of unquiet slumbers.
+    To fly the boar before the boar pursues
+    Were to incense the boar to follow us
+    And make pursuit where he did mean no chase.
+    Go, bid thy master rise and come to me;
+    And we will both together to the Tower,
+    Where, he shall see, the boar will use us kindly.
+  MESSENGER. I'll go, my lord, and tell him what you say.
+ Exit
+
+                         Enter CATESBY
+
+  CATESBY. Many good morrows to my noble lord!
+  HASTINGS. Good morrow, Catesby; you are early stirring.
+    What news, what news, in this our tott'ring state?
+  CATESBY. It is a reeling world indeed, my lord;
+    And I believe will never stand upright
+    Till Richard wear the garland of the realm.
+  HASTINGS. How, wear the garland! Dost thou mean the
+    crown?
+  CATESBY. Ay, my good lord.
+  HASTINGS. I'll have this crown of mine cut from my
+    shoulders
+    Before I'll see the crown so foul misplac'd.
+    But canst thou guess that he doth aim at it?
+  CATESBY. Ay, on my life; and hopes to find you forward
+    Upon his party for the gain thereof;
+    And thereupon he sends you this good news,
+    That this same very day your enemies,
+    The kindred of the Queen, must die at Pomfret.
+  HASTINGS. Indeed, I am no mourner for that news,
+    Because they have been still my adversaries;
+    But that I'll give my voice on Richard's side
+    To bar my master's heirs in true descent,
+    God knows I will not do it to the death.
+  CATESBY. God keep your lordship in that gracious mind!
+  HASTINGS. But I shall laugh at this a twelve month hence,
+    That they which brought me in my master's hate,
+    I live to look upon their tragedy.
+    Well, Catesby, ere a fortnight make me older,
+    I'll send some packing that yet think not on't.
+  CATESBY. 'Tis a vile thing to die, my gracious lord,
+    When men are unprepar'd and look not for it.
+  HASTINGS. O monstrous, monstrous! And so falls it out
+    With Rivers, Vaughan, Grey; and so 'twill do
+    With some men else that think themselves as safe
+    As thou and I, who, as thou knowest, are dear
+    To princely Richard and to Buckingham.
+  CATESBY. The Princes both make high account of you-
+    [Aside]  For they account his head upon the bridge.
+  HASTINGS. I know they do, and I have well deserv'd it.
+
+                      Enter LORD STANLEY
+
+    Come on, come on; where is your boar-spear, man?
+    Fear you the boar, and go so unprovided?
+  STANLEY. My lord, good morrow; good morrow, Catesby.
+    You may jest on, but, by the holy rood,
+    I do not like these several councils, I.
+  HASTINGS. My lord, I hold my life as dear as yours,
+    And never in my days, I do protest,
+    Was it so precious to me as 'tis now.
+    Think you, but that I know our state secure,
+    I would be so triumphant as I am?
+  STANLEY. The lords at Pomfret, when they rode from
+    London,
+    Were jocund and suppos'd their states were sure,
+    And they indeed had no cause to mistrust;
+    But yet you see how soon the day o'ercast.
+    This sudden stab of rancour I misdoubt;
+    Pray God, I say, I prove a needless coward.
+    What, shall we toward the Tower? The day is spent.
+  HASTINGS. Come, come, have with you. Wot you what, my
+    Lord?
+    To-day the lords you talk'd of are beheaded.
+  STANLEY. They, for their truth, might better wear their
+    heads
+    Than some that have accus'd them wear their hats.
+    But come, my lord, let's away.
+
+                 Enter HASTINGS, a pursuivant
+
+  HASTINGS. Go on before; I'll talk with this good fellow.
+                                      Exeunt STANLEY and CATESBY
+    How now, Hastings! How goes the world with thee?
+  PURSUIVANT. The better that your lordship please to ask.
+  HASTINGS. I tell thee, man, 'tis better with me now
+    Than when thou met'st me last where now we meet:
+    Then was I going prisoner to the Tower
+    By the suggestion of the Queen's allies;
+    But now, I tell thee-keep it to thyself-
+    This day those enernies are put to death,
+    And I in better state than e'er I was.
+  PURSUIVANT. God hold it, to your honour's good content!
+  HASTINGS. Gramercy, Hastings; there, drink that for me.
+                                          [Throws him his purse]
+  PURSUIVANT. I thank your honour.                          Exit
+
+                            Enter a PRIEST
+
+  PRIEST. Well met, my lord; I am glad to see your honour.
+  HASTINGS. I thank thee, good Sir John, with all my heart.
+    I am in your debt for your last exercise;
+    Come the next Sabbath, and I will content you.
+                                        [He whispers in his ear]
+  PRIEST. I'll wait upon your lordship.
+
+                            Enter BUCKINGHAM
+
+  BUCKINGHAM. What, talking with a priest, Lord
+    Chamberlain!
+    Your friends at Pomfret, they do need the priest:
+    Your honour hath no shriving work in hand.
+  HASTINGS. Good faith, and when I met this holy man,
+    The men you talk of came into my mind.
+    What, go you toward the Tower?
+  BUCKINGHAM. I do, my lord, but long I cannot stay there;
+    I shall return before your lordship thence.
+  HASTINGS. Nay, like enough, for I stay dinner there.
+  BUCKINGHAM.  [Aside]  And supper too, although thou
+    knowest it not.-
+    Come, will you go?
+  HASTINGS. I'll wait upon your lordship.                 Exeunt
+
+
+
+
+SCENE 3.
+
+Pomfret Castle
+
+Enter SIR RICHARD RATCLIFF, with halberds, carrying the Nobles,
+RIVERS, GREY, and VAUGHAN, to death
+
+  RIVERS. Sir Richard Ratcliff, let me tell thee this:
+    To-day shalt thou behold a subject die
+    For truth, for duty, and for loyalty.
+  GREY. God bless the Prince from all the pack of you!
+    A knot you are of damned blood-suckers.
+  VAUGHAN. You live that shall cry woe for this hereafter.
+  RATCLIFF. Dispatch; the limit of your lives is out.
+  RIVERS. O Pomfret, Pomfret! O thou bloody prison,
+    Fatal and ominous to noble peers!
+    Within the guilty closure of thy walls
+  RICHARD the Second here was hack'd to death;
+    And for more slander to thy dismal seat,
+    We give to thee our guiltless blood to drink.

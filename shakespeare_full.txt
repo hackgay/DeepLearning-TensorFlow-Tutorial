@@ -92457,3 +92457,194 @@ Enter Capulet's Wife, and Nurse.
   Nurse. Now, by my maidenhead at twelve year old,
     I bade her come. What, lamb! what ladybird!
     God forbid! Where's this girl? What, Juliet!
+
+                         Enter Juliet.
+
+  Jul. How now? Who calls?
+  Nurse. Your mother.
+  Jul. Madam, I am here.
+    What is your will?
+  Wife. This is the matter- Nurse, give leave awhile,
+    We must talk in secret. Nurse, come back again;
+    I have rememb'red me, thou's hear our counsel.
+    Thou knowest my daughter's of a pretty age.
+  Nurse. Faith, I can tell her age unto an hour.
+  Wife. She's not fourteen.
+  Nurse. I'll lay fourteen of my teeth-
+    And yet, to my teen be it spoken, I have but four-
+    She is not fourteen. How long is it now
+    To Lammastide?
+  Wife. A fortnight and odd days.
+  Nurse. Even or odd, of all days in the year,
+    Come Lammas Eve at night shall she be fourteen.
+    Susan and she (God rest all Christian souls!)
+    Were of an age. Well, Susan is with God;
+    She was too good for me. But, as I said,
+    On Lammas Eve at night shall she be fourteen;
+    That shall she, marry; I remember it well.
+    'Tis since the earthquake now eleven years;
+    And she was wean'd (I never shall forget it),
+    Of all the days of the year, upon that day;
+    For I had then laid wormwood to my dug,
+    Sitting in the sun under the dovehouse wall.
+    My lord and you were then at Mantua.
+    Nay, I do bear a brain. But, as I said,
+    When it did taste the wormwood on the nipple
+    Of my dug and felt it bitter, pretty fool,
+    To see it tetchy and fall out with the dug!
+    Shake, quoth the dovehouse! 'Twas no need, I trow,
+    To bid me trudge.
+    And since that time it is eleven years,
+    For then she could stand high-lone; nay, by th' rood,
+    She could have run and waddled all about;
+    For even the day before, she broke her brow;
+    And then my husband (God be with his soul!
+    'A was a merry man) took up the child.
+    'Yea,' quoth he, 'dost thou fall upon thy face?
+    Thou wilt fall backward when thou hast more wit;
+    Wilt thou not, Jule?' and, by my holidam,
+    The pretty wretch left crying, and said 'Ay.'
+    To see now how a jest shall come about!
+    I warrant, an I should live a thousand yeas,
+    I never should forget it. 'Wilt thou not, Jule?' quoth he,
+    And, pretty fool, it stinted, and said 'Ay.'
+  Wife. Enough of this. I pray thee hold thy peace.
+  Nurse. Yes, madam. Yet I cannot choose but laugh
+    To think it should leave crying and say 'Ay.'
+    And yet, I warrant, it bad upon it brow
+    A bump as big as a young cock'rel's stone;
+    A perilous knock; and it cried bitterly.
+    'Yea,' quoth my husband, 'fall'st upon thy face?
+    Thou wilt fall backward when thou comest to age;
+    Wilt thou not, Jule?' It stinted, and said 'Ay.'
+  Jul. And stint thou too, I pray thee, nurse, say I.
+  Nurse. Peace, I have done. God mark thee to his grace!
+    Thou wast the prettiest babe that e'er I nurs'd.
+    An I might live to see thee married once, I have my wish.
+  Wife. Marry, that 'marry' is the very theme
+    I came to talk of. Tell me, daughter Juliet,
+    How stands your disposition to be married?
+  Jul. It is an honour that I dream not of.
+  Nurse. An honour? Were not I thine only nurse,
+    I would say thou hadst suck'd wisdom from thy teat.
+  Wife. Well, think of marriage now. Younger than you,
+    Here in Verona, ladies of esteem,
+    Are made already mothers. By my count,
+    I was your mother much upon these years
+    That you are now a maid. Thus then in brief:
+    The valiant Paris seeks you for his love.
+  Nurse. A man, young lady! lady, such a man
+    As all the world- why he's a man of wax.
+  Wife. Verona's summer hath not such a flower.
+  Nurse. Nay, he's a flower, in faith- a very flower.
+  Wife. What say you? Can you love the gentleman?
+    This night you shall behold him at our feast.
+    Read o'er the volume of young Paris' face,
+    And find delight writ there with beauty's pen;
+    Examine every married lineament,
+    And see how one another lends content;
+    And what obscur'd in this fair volume lies
+    Find written in the margent of his eyes,
+    This precious book of love, this unbound lover,
+    To beautify him only lacks a cover.
+    The fish lives in the sea, and 'tis much pride
+    For fair without the fair within to hide.
+    That book in many's eyes doth share the glory,
+    That in gold clasps locks in the golden story;
+    So shall you share all that he doth possess,
+    By having him making yourself no less.
+  Nurse. No less? Nay, bigger! Women grow by men
+  Wife. Speak briefly, can you like of Paris' love?
+  Jul. I'll look to like, if looking liking move;
+    But no more deep will I endart mine eye
+    Than your consent gives strength to make it fly.
+
+                        Enter Servingman.
+
+  Serv. Madam, the guests are come, supper serv'd up, you call'd, my
+    young lady ask'd for, the nurse curs'd in the pantry, and
+    everything in extremity. I must hence to wait. I beseech you
+    follow straight.
+  Wife. We follow thee.                       Exit [Servingman].
+    Juliet, the County stays.
+  Nurse. Go, girl, seek happy nights to happy days.
+                                                         Exeunt.
+
+
+
+
+Scene IV.
+A street.
+
+Enter Romeo, Mercutio, Benvolio, with five or six other Maskers; Torchbearers.
+
+  Rom. What, shall this speech be spoke for our excuse?
+    Or shall we on without apology?
+  Ben. The date is out of such prolixity.
+    We'll have no Cupid hoodwink'd with a scarf,
+    Bearing a Tartar's painted bow of lath,
+    Scaring the ladies like a crowkeeper;
+    Nor no without-book prologue, faintly spoke
+    After the prompter, for our entrance;
+    But, let them measure us by what they will,
+    We'll measure them a measure, and be gone.
+  Rom. Give me a torch. I am not for this ambling.
+    Being but heavy, I will bear the light.
+  Mer. Nay, gentle Romeo, we must have you dance.
+  Rom. Not I, believe me. You have dancing shoes
+    With nimble soles; I have a soul of lead
+    So stakes me to the ground I cannot move.
+  Mer. You are a lover. Borrow Cupid's wings
+    And soar with them above a common bound.
+  Rom. I am too sore enpierced with his shaft
+    To soar with his light feathers; and so bound
+    I cannot bound a pitch above dull woe.
+    Under love's heavy burthen do I sink.
+  Mer. And, to sink in it, should you burthen love-
+    Too great oppression for a tender thing.
+  Rom. Is love a tender thing? It is too rough,
+    Too rude, too boist'rous, and it pricks like thorn.
+  Mer. If love be rough with you, be rough with love.
+    Prick love for pricking, and you beat love down.
+    Give me a case to put my visage in.
+    A visor for a visor! What care I
+    What curious eye doth quote deformities?
+    Here are the beetle brows shall blush for me.
+  Ben. Come, knock and enter; and no sooner in
+    But every man betake him to his legs.
+  Rom. A torch for me! Let wantons light of heart
+    Tickle the senseless rushes with their heels;
+    For I am proverb'd with a grandsire phrase,
+    I'll be a candle-holder and look on;
+    The game was ne'er so fair, and I am done.
+  Mer. Tut! dun's the mouse, the constable's own word!
+    If thou art Dun, we'll draw thee from the mire
+    Of this sir-reverence love, wherein thou stick'st
+    Up to the ears. Come, we burn daylight, ho!
+  Rom. Nay, that's not so.
+  Mer. I mean, sir, in delay
+    We waste our lights in vain, like lamps by day.
+    Take our good meaning, for our judgment sits
+    Five times in that ere once in our five wits.
+  Rom. And we mean well, in going to this masque;
+    But 'tis no wit to go.
+  Mer. Why, may one ask?
+  Rom. I dreamt a dream to-night.
+  Mer. And so did I.
+  Rom. Well, what was yours?
+  Mer. That dreamers often lie.
+  Rom. In bed asleep, while they do dream things true.
+  Mer. O, then I see Queen Mab hath been with you.
+    She is the fairies' midwife, and she comes
+    In shape no bigger than an agate stone
+    On the forefinger of an alderman,
+    Drawn with a team of little atomies
+    Athwart men's noses as they lie asleep;
+    Her wagon spokes made of long spinners' legs,
+    The cover, of the wings of grasshoppers;
+    Her traces, of the smallest spider's web;
+    Her collars, of the moonshine's wat'ry beams;
+    Her whip, of cricket's bone; the lash, of film;
+    Her wagoner, a small grey-coated gnat,
+    Not half so big as a round little worm
+    Prick'd from the lazy finger of a maid;

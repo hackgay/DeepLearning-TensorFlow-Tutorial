@@ -94110,3 +94110,190 @@ Enter Friar [Laurence].
   Friar. O, then I see that madmen have no ears.
   Rom. How should they, when that wise men have no eyes?
   Friar. Let me dispute with thee of thy estate.
+  Rom. Thou canst not speak of that thou dost not feel.
+    Wert thou as young as I, Juliet thy love,
+    An hour but married, Tybalt murdered,
+    Doting like me, and like me banished,
+    Then mightst thou speak, then mightst thou tear thy hair,
+    And fall upon the ground, as I do now,
+    Taking the measure of an unmade grave.
+                                                 Knock [within].
+  Friar. Arise; one knocks. Good Romeo, hide thyself.
+  Rom. Not I; unless the breath of heartsick groans,
+    Mist-like infold me from the search of eyes.          Knock.
+  Friar. Hark, how they knock! Who's there? Romeo, arise;
+    Thou wilt be taken.- Stay awhile!- Stand up;          Knock.
+    Run to my study.- By-and-by!- God's will,
+    What simpleness is this.- I come, I come!             Knock.
+    Who knocks so hard? Whence come you? What's your will
+  Nurse. [within] Let me come in, and you shall know my errand.
+    I come from Lady Juliet.
+  Friar. Welcome then.
+
+                       Enter Nurse.
+
+  Nurse. O holy friar, O, tell me, holy friar
+    Where is my lady's lord, where's Romeo?
+  Friar. There on the ground, with his own tears made drunk.
+  Nurse. O, he is even in my mistress' case,
+    Just in her case!
+  Friar. O woeful sympathy!
+    Piteous predicament!
+  Nurse. Even so lies she,
+    Blubb'ring and weeping, weeping and blubbering.
+    Stand up, stand up! Stand, an you be a man.
+    For Juliet's sake, for her sake, rise and stand!
+    Why should you fall into so deep an O?
+  Rom. (rises) Nurse-
+  Nurse. Ah sir! ah sir! Well, death's the end of all.
+  Rom. Spakest thou of Juliet? How is it with her?
+    Doth not she think me an old murtherer,
+    Now I have stain'd the childhood of our joy
+    With blood remov'd but little from her own?
+    Where is she? and how doth she! and what says
+    My conceal'd lady to our cancell'd love?
+  Nurse. O, she says nothing, sir, but weeps and weeps;
+    And now falls on her bed, and then starts up,
+    And Tybalt calls; and then on Romeo cries,
+    And then down falls again.
+  Rom. As if that name,
+    Shot from the deadly level of a gun,
+    Did murther her; as that name's cursed hand
+    Murder'd her kinsman. O, tell me, friar, tell me,
+    In what vile part of this anatomy
+    Doth my name lodge? Tell me, that I may sack
+    The hateful mansion.                     [Draws his dagger.]
+  Friar. Hold thy desperate hand.
+    Art thou a man? Thy form cries out thou art;
+    Thy tears are womanish, thy wild acts denote
+    The unreasonable fury of a beast.
+    Unseemly woman in a seeming man!
+    Or ill-beseeming beast in seeming both!
+    Thou hast amaz'd me. By my holy order,
+    I thought thy disposition better temper'd.
+    Hast thou slain Tybalt? Wilt thou slay thyself?
+    And slay thy lady that in thy life lives,
+    By doing damned hate upon thyself?
+    Why railest thou on thy birth, the heaven, and earth?
+    Since birth and heaven and earth, all three do meet
+    In thee at once; which thou at once wouldst lose.
+    Fie, fie, thou shamest thy shape, thy love, thy wit,
+    Which, like a usurer, abound'st in all,
+    And usest none in that true use indeed
+    Which should bedeck thy shape, thy love, thy wit.
+    Thy noble shape is but a form of wax
+    Digressing from the valour of a man;
+    Thy dear love sworn but hollow perjury,
+    Killing that love which thou hast vow'd to cherish;
+    Thy wit, that ornament to shape and love,
+    Misshapen in the conduct of them both,
+    Like powder in a skilless soldier's flask,
+    is get afire by thine own ignorance,
+    And thou dismemb'red with thine own defence.
+    What, rouse thee, man! Thy Juliet is alive,
+    For whose dear sake thou wast but lately dead.
+    There art thou happy. Tybalt would kill thee,
+    But thou slewest Tybalt. There art thou happy too.
+    The law, that threat'ned death, becomes thy friend
+    And turns it to exile. There art thou happy.
+    A pack of blessings light upon thy back;
+    Happiness courts thee in her best array;
+    But, like a misbhav'd and sullen wench,
+    Thou pout'st upon thy fortune and thy love.
+    Take heed, take heed, for such die miserable.
+    Go get thee to thy love, as was decreed,
+    Ascend her chamber, hence and comfort her.
+    But look thou stay not till the watch be set,
+    For then thou canst not pass to Mantua,
+    Where thou shalt live till we can find a time
+    To blaze your marriage, reconcile your friends,
+    Beg pardon of the Prince, and call thee back
+    With twenty hundred thousand times more joy
+    Than thou went'st forth in lamentation.
+    Go before, nurse. Commend me to thy lady,
+    And bid her hasten all the house to bed,
+    Which heavy sorrow makes them apt unto.
+    Romeo is coming.
+  Nurse. O Lord, I could have stay'd here all the night
+    To hear good counsel. O, what learning is!
+    My lord, I'll tell my lady you will come.
+  Rom. Do so, and bid my sweet prepare to chide.
+  Nurse. Here is a ring she bid me give you, sir.
+    Hie you, make haste, for it grows very late.           Exit.
+  Rom. How well my comfort is reviv'd by this!
+  Friar. Go hence; good night; and here stands all your state:
+    Either be gone before the watch be set,
+    Or by the break of day disguis'd from hence.
+    Sojourn in Mantua. I'll find out your man,
+    And he shall signify from time to time
+    Every good hap to you that chances here.
+    Give me thy hand. 'Tis late. Farewell; good night.
+  Rom. But that a joy past joy calls out on me,
+    It were a grief so brief to part with thee.
+    Farewell.
+                                                         Exeunt.
+
+
+
+
+Scene IV.
+Capulet's house
+
+Enter Old Capulet, his Wife, and Paris.
+
+  Cap. Things have fall'n out, sir, so unluckily
+    That we have had no time to move our daughter.
+    Look you, she lov'd her kinsman Tybalt dearly,
+    And so did I. Well, we were born to die.
+    'Tis very late; she'll not come down to-night.
+    I promise you, but for your company,
+    I would have been abed an hour ago.
+  Par. These times of woe afford no tune to woo.
+    Madam, good night. Commend me to your daughter.
+  Lady. I will, and know her mind early to-morrow;
+    To-night she's mew'd up to her heaviness.
+  Cap. Sir Paris, I will make a desperate tender
+    Of my child's love. I think she will be rul'd
+    In all respects by me; nay more, I doubt it not.
+    Wife, go you to her ere you go to bed;
+    Acquaint her here of my son Paris' love
+    And bid her (mark you me?) on Wednesday next-
+    But, soft! what day is this?
+  Par. Monday, my lord.
+  Cap. Monday! ha, ha! Well, Wednesday is too soon.
+    Thursday let it be- a Thursday, tell her
+    She shall be married to this noble earl.
+    Will you be ready? Do you like this haste?
+    We'll keep no great ado- a friend or two;
+    For hark you, Tybalt being slain so late,
+    It may be thought we held him carelessly,
+    Being our kinsman, if we revel much.
+    Therefore we'll have some half a dozen friends,
+    And there an end. But what say you to Thursday?
+  Par. My lord, I would that Thursday were to-morrow.
+  Cap. Well, get you gone. A Thursday be it then.
+    Go you to Juliet ere you go to bed;
+    Prepare her, wife, against this wedding day.
+    Farewell, My lord.- Light to my chamber, ho!
+    Afore me, It is so very very late
+    That we may call it early by-and-by.
+    Good night.
+                                                          Exeunt
+
+
+
+
+Scene V.
+Capulet's orchard.
+
+Enter Romeo and Juliet aloft, at the Window.
+
+  Jul. Wilt thou be gone? It is not yet near day.
+    It was the nightingale, and not the lark,
+    That pierc'd the fearful hollow of thine ear.
+    Nightly she sings on yond pomegranate tree.
+    Believe me, love, it was the nightingale.
+  Rom. It was the lark, the herald of the morn;
+    No nightingale. Look, love, what envious streaks
+    Do lace the severing clouds in yonder East.
+    Night's candles are burnt out, and jocund day
